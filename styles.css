@@ -37,6 +37,62 @@ header h1 i {
     margin-right: 10px;
 }
 
+.contact-info {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.contact-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    color: #2c3e50;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+    border: 1px solid #e1e8ed;
+}
+
+.contact-link:hover {
+    background-color: #3498db;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+}
+
+.contact-link i {
+    font-size: 16px;
+}
+
+.contact-link .fab.fa-facebook {
+    color: #1877f2;
+}
+
+.contact-link:hover .fab.fa-facebook {
+    color: white;
+}
+
+.contact-link .fas.fa-comments {
+    color: #0084ff;
+}
+
+.contact-link:hover .fas.fa-comments {
+    color: white;
+}
+
+.contact-link .fas.fa-phone {
+    color: #27ae60;
+}
+
+.contact-link:hover .fas.fa-phone {
+    color: white;
+}
+
 .add-btn {
     background: linear-gradient(135deg, #3498db, #2980b9);
     color: white;
@@ -694,6 +750,25 @@ button[type="submit"]:hover {
         flex-direction: column;
         gap: 15px;
         text-align: center;
+    }
+    
+    .contact-info {
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+    
+    .contact-link {
+        font-size: 13px;
+        padding: 6px 10px;
+    }
+    
+    .contact-link span {
+        display: none;
+    }
+    
+    .contact-link i {
+        font-size: 18px;
     }
     
     .filters {
