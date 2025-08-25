@@ -12,7 +12,7 @@
       "parkingPrice": 150000,
       "description": "Căn Hộ Full Nội Thất – Sát Văn Lang CS3 Ngay công viên, giao Phạm Văn Đồng – chỉ 10 bước sang VLU Thiết kế tách bếp riêng, full nội thất cao cấp",
       "images": [
-        "./assets/images/2.jpg"
+        "assets/images/2.jpg"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "parkingPrice": 120000,
       "description": "Phòng đầy đủ tiện nghi, gần trường học và khu vực ăn uống",
       "images": [
-        "./assets/images/2.jpg"
+        "assets/images/2.jpg"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "parkingPrice": 200000,
       "description": "Căn hộ mini hiện đại, view thành phố tuyệt đẹp",
       "images": [
-        "./assets/images/2.jpg"
+        "assets/images/2.jpg"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "parkingPrice": 100000,
       "description": "Phòng trọ dành cho sinh viên, gần các trường đại học",
       "images": [
-        "./assets/images/2.jpg"
+        "assets/images/2.jpg"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "parkingPrice": 250000,
       "description": "Căn hộ dịch vụ đầy đủ tiện nghi, view sông tuyệt đẹp",
       "images": [
-        "./assets/images/2.jpg"
+        "assets/images/2.jpg"
       ]
     }
   ]
