@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý Phòng Trọ</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-building"></i> Quản Lý Phòng Trọ</h1>
+        </header>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="priceFilter">Lọc theo giá:</label>
+                <select id="priceFilter">
+                    <option value="">Tất cả</option>
+                    <option value="under-3">Dưới 3 triệu</option>
+                    <option value="3-5">3-5 triệu</option>
+                    <option value="5-10">5-10 triệu</option>
+                    <option value="over-10">Trên 10 triệu</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="areaFilter">Lọc theo khu vực:</label>
+                <select id="areaFilter">
+                    <option value="">Tất cả</option>
+                    <option value="binh-thanh">Bình Thạnh</option>
+                    <option value="go-vap">Gò Vấp</option>
+                    <option value="tan-binh">Tân Bình</option>
+                    <option value="phu-nhuan">Phú Nhuận</option>
+                </select>
+            </div>
+
+        </div>
+
+        <div id="roomList" class="room-list">
+            <!-- Danh sách phòng sẽ được render ở đây -->
+        </div>
+    </div>
+
+    <!-- Image Gallery Modal -->
+    <div id="galleryModal" class="gallery-modal">
+        <div class="gallery-content">
+            <div class="gallery-header">
+                <h3 class="gallery-title">Hình ảnh phòng</h3>
+                <span class="gallery-close">&times;</span>
+            </div>
+            
+            <div class="main-image-container">
+                <div id="noMainImage" class="no-main-image">
+                    <i class="fas fa-image"></i>
+                </div>
+                <img id="mainImage" class="main-image" style="display: none;">
+                
+                <button id="prevBtn" class="image-nav prev">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <button id="nextBtn" class="image-nav next">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+                
+                <div id="imageCounter" class="image-counter" style="display: none;">
+                    <span id="currentIndex">1</span> / <span id="totalImages">1</span>
+                </div>
+            </div>
+            
+            <div class="thumbnail-container">
+                <div id="thumbnailGrid" class="thumbnail-grid">
+                    <!-- Thumbnails sẽ được render ở đây -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="dataManager.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
