@@ -48,20 +48,12 @@ class RoomManager {
     }
 
     async loadRooms() {
-        console.log('RoomManager: Bắt đầu load dữ liệu...');
-        
         // Xóa localStorage để force load từ file JSON
         localStorage.removeItem('roomsData');
         
         try {
             // Load dữ liệu từ file JSON
             this.rooms = await this.dataManager.loadData();
-            console.log('RoomManager: Đã load thành công', this.rooms.length, 'phòng');
-            
-            // Debug: hiển thị thông tin các phòng
-            this.rooms.forEach(room => {
-                console.log(`Phòng ${room.id}: ${room.title} - ${room.address} - ${room.price} triệu`);
-            });
             
         } catch (error) {
             console.error('RoomManager: Lỗi khi load phòng:', error);

@@ -129,14 +129,12 @@ class DataManager {
             // Kiểm tra localStorage trước
             const savedData = localStorage.getItem('roomsData');
             if (savedData) {
-                console.log('DataManager: Load từ localStorage');
                 const rooms = JSON.parse(savedData);
                 this.rooms = Array.isArray(rooms) ? rooms : [];
                 return this.rooms;
             }
             
             // Nếu không có trong localStorage, load từ file JSON
-            console.log('DataManager: Load từ data.json');
             this.rooms = await this.getDefaultData();
             
             // Lưu vào localStorage để lần sau load nhanh hơn
@@ -165,7 +163,6 @@ class DataManager {
     // Force reload từ file JSON (bỏ qua localStorage)
     async reloadFromFile() {
         try {
-            console.log('DataManager: Force reload từ data.json');
             this.rooms = await this.getDefaultData();
             
             // Cập nhật localStorage với dữ liệu mới
