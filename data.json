@@ -12,10 +12,7 @@
       "parkingPrice": 150000,
       "description": "Căn Hộ Full Nội Thất – Sát Văn Lang CS3 Ngay công viên, giao Phạm Văn Đồng – chỉ 10 bước sang VLU Thiết kế tách bếp riêng, full nội thất cao cấp",
       "images": [
-        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop"
+        "./assets/images/2.jpg"
       ]
     },
     {
@@ -30,9 +27,7 @@
       "parkingPrice": 120000,
       "description": "Phòng đầy đủ tiện nghi, gần trường học và khu vực ăn uống",
       "images": [
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg"
+        "./assets/images/2.jpg"
       ]
     },
     {
@@ -47,11 +42,7 @@
       "parkingPrice": 200000,
       "description": "Căn hộ mini hiện đại, view thành phố tuyệt đẹp",
       "images": [
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg"
+        "./assets/images/2.jpg"
       ]
     },
     {
@@ -66,8 +57,7 @@
       "parkingPrice": 100000,
       "description": "Phòng trọ dành cho sinh viên, gần các trường đại học",
       "images": [
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg"
+        "./assets/images/2.jpg"
       ]
     },
     {
@@ -82,12 +72,7 @@
       "parkingPrice": 250000,
       "description": "Căn hộ dịch vụ đầy đủ tiện nghi, view sông tuyệt đẹp",
       "images": [
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg",
-        "https://bandon.vn/uploads/thiet-ke-nha-tro-dep-2020-bandon-18.jpg"
+        "./assets/images/2.jpg"
       ]
     }
   ]
