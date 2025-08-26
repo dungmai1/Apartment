@@ -74,6 +74,32 @@
       "images": [
         "2.jpg"
       ]
+    },
+    {
+      "id": 6,
+      "title": "Phòng trọ Duplex 317/7 Phan Xích Long, P.2 Phú Nhuận",
+      "price": 4.8,
+      "address": "317/7 Phan Xích Long, Phường 2, Phú Nhuận",
+      "area": null,
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 100000,
+      "description": "Vị trí: Lầu 1, phòng 102 (duplex). Phòng có trang bị máy giặt, sấy. Giờ giấc tự do, ra vào bằng khoá vân tay, không chung chủ. Nước tính 100k/người, DV 150k/phòng, xe 100k/chiếc.",
+      "images": []
+    },
+    {
+      "id": 7,
+      "title": "Phòng trọ Duplex Lầu 1 tại 317/7 Phan Xích Long, P.2 Phú Nhuận",
+      "price": 4.8,
+      "address": "317/7 Phan Xích Long, Phường 2, Phú Nhuận",
+      "area": null,
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 100000,
+      "description": "Vị trí: Lầu 1, phòng 102 (duplex). Có máy giặt, sấy chung. Điện 4.000 VNĐ/kWh. Nước: 100.000 VNĐ/người. Phí dịch vụ: 150.000 VNĐ/phòng. Phí giữ xe: 100.000 VNĐ/chiếc. Giờ giấc tự do, khóa vân tay. Không chung chủ.",
+      "images": []
     }
   ]
 }

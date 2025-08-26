@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.15.0",
+    "express": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5"
+  }
+}
