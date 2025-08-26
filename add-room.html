@@ -84,6 +84,10 @@
                     <label for="phongTroText">Nhập thông tin phòng trọ (copy từ Zalo):</label>
                     <textarea id="phongTroText" rows="10" style="width:100%" required></textarea>
                 </div>
+                <div class="form-group">
+                    <label for="images">Chọn hình ảnh phòng trọ (có thể chọn nhiều):</label>
+                    <input type="file" id="images" multiple accept="image/*">
+                </div>
                 <button type="submit" class="btn" style="background: linear-gradient(135deg, #3498db, #2980b9); color: white;">
                     <i class="fas fa-save"></i> Lưu Phòng
                 </button>
@@ -96,6 +100,25 @@
         document.getElementById('addRoomForm').onsubmit = async function(e) {
             e.preventDefault();
             const phongTroText = document.getElementById('phongTroText').value;
+            document.getElementById("images").addEventListener("change", function (e) {
+            const imageFiles = e.target.files;
+            if (imageFiles.length > 0) {
+            for (let i = 0; i < imageFiles.length; i++) {
+                const file = imageFiles[i];
+                const url = URL.createObjectURL(file);
+
+                // Tạo thẻ <a> ẩn để download
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = file.name;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+
+                URL.revokeObjectURL(url);
+            }
+            }
+        });
             try {
                 const res = await fetch('http://localhost:3000/api/add-room', {
                     method: 'POST',

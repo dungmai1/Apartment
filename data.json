@@ -100,6 +100,32 @@
       "parkingPrice": 100000,
       "description": "Vị trí: Lầu 1, phòng 102 (duplex). Có máy giặt, sấy chung. Điện 4.000 VNĐ/kWh. Nước: 100.000 VNĐ/người. Phí dịch vụ: 150.000 VNĐ/phòng. Phí giữ xe: 100.000 VNĐ/chiếc. Giờ giấc tự do, khóa vân tay. Không chung chủ.",
       "images": []
+    },
+    {
+      "id": 8,
+      "title": "Phòng trọ Duplex P.2 Phú Nhuận",
+      "price": 10.5,
+      "address": "317/7 phan xích Long phường 2 phú nhuận",
+      "area": null,
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 100000,
+      "description": "Vị trí: lầu 1, phòng 102 (duplex). Có máy giặt, sấy. Nước tính 100k/người. Giờ giấc tự do, khoá vân tay. Không chung chủ.",
+      "images": []
+    },
+    {
+      "id": 9,
+      "title": "Phòng trọ Duplex P.2 Phú Nhuận, có máy giặt sấy",
+      "price": 4.8,
+      "address": "317/7 phan xích Long phường 2 phú nhuận",
+      "area": null,
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 100000,
+      "description": "Vị trí: lầu 1, phòng 102 (duplex). Có máy giặt, sấy. Giờ tự do, khoá vân tay. Không chung chủ.",
+      "images": []
     }
   ]
 }
