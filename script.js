@@ -344,13 +344,6 @@ class RoomManager {
                         ${room.address}
                     </div>
                     
-                    <div class="room-details">
-                        <div class="detail-item">
-                            <i class="fas fa-ruler-combined"></i>
-                            <span>${room.area} m²</span>
-                        </div>
-                    </div>
-                    
                     <div class="room-utilities">
                         <div class="utility-item">
                             <span class="utility-label">Điện:</span>
