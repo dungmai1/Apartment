@@ -66,12 +66,24 @@ class RoomManager {
         const priceFilter = document.getElementById('priceFilter');
         const areaFilter = document.getElementById('areaFilter');
         
+        console.log('Initializing event listeners:', { priceFilter, areaFilter });
+        
         if (priceFilter) {
-            priceFilter.addEventListener('change', () => this.renderRooms());
+            priceFilter.addEventListener('change', () => {
+                console.log('Price filter changed to:', priceFilter.value);
+                this.renderRooms();
+            });
+        } else {
+            console.warn('Price filter element not found');
         }
         
         if (areaFilter) {
-            areaFilter.addEventListener('change', () => this.renderRooms());
+            areaFilter.addEventListener('change', () => {
+                console.log('Area filter changed to:', areaFilter.value);
+                this.renderRooms();
+            });
+        } else {
+            console.warn('Area filter element not found');
         }
 
         // Gallery modal controls
@@ -134,34 +146,46 @@ class RoomManager {
         const priceFilter = document.getElementById('priceFilter')?.value;
         const areaFilter = document.getElementById('areaFilter')?.value;
         
+        console.log('Filtering with:', { priceFilter, areaFilter }); // Debug
+        
         return this.rooms.filter(room => {
             let matchesPrice = true;
             let matchesArea = true;
             
-            // Filter theo giá
-            if (priceFilter) {
+            // Filter theo giá - chuyển đổi giá từ triệu VNĐ
+            if (priceFilter && room.price !== null) {
+                // Chuyển đổi giá về triệu VNĐ nếu là số lớn
+                let roomPrice = room.price;
+                if (roomPrice > 1000) {
+                    roomPrice = roomPrice / 1000000; // Chuyển từ VNĐ sang triệu VNĐ
+                }
+                
                 switch (priceFilter) {
                     case 'under-3':
-                        matchesPrice = room.price < 3;
+                        matchesPrice = roomPrice < 3;
                         break;
                     case '3-5':
-                        matchesPrice = room.price >= 3 && room.price <= 5;
+                        matchesPrice = roomPrice >= 3 && roomPrice <= 5;
                         break;
                     case '5-10':
-                        matchesPrice = room.price > 5 && room.price <= 10;
+                        matchesPrice = roomPrice > 5 && roomPrice <= 10;
                         break;
                     case 'over-10':
-                        matchesPrice = room.price > 10;
+                        matchesPrice = roomPrice > 10;
                         break;
                 }
+                console.log(`Room ${room.id}: price=${roomPrice}, filter=${priceFilter}, matches=${matchesPrice}`);
             }
             
             // Filter theo khu vực
-            if (areaFilter) {
+            if (areaFilter && room.address) {
                 matchesArea = this.matchesArea(room.address, areaFilter);
+                console.log(`Room ${room.id}: address="${room.address}", filter="${areaFilter}", matches=${matchesArea}`);
             }
             
-            return matchesPrice && matchesArea;
+            const result = matchesPrice && matchesArea;
+            console.log(`Room ${room.id} final result: ${result}`);
+            return result;
         });
     }
 
