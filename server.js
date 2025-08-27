@@ -41,7 +41,21 @@ app.post("/api/upload-images", upload.array("images", 10), (req, res) => {
 function getNextId() {
   const data = JSON.parse(fs.readFileSync("data.json", "utf8"));
   const ids = data.rooms.map(room => room.id);
-  return Math.max(...ids) + 1;
+  
+  // Nếu không có phòng nào, trả về ID = 1
+  if (ids.length === 0) {
+    return 1;
+  }
+  
+  // Lọc ra những ID hợp lệ (là số)
+  const validIds = ids.filter(id => typeof id === 'number' && !isNaN(id) && isFinite(id));
+  
+  // Nếu không có ID hợp lệ, bắt đầu từ 1
+  if (validIds.length === 0) {
+    return 1;
+  }
+  
+  return Math.max(...validIds) + 1;
 }
 
 function appendRoomToJson(newRoom) {
