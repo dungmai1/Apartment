@@ -812,6 +812,272 @@
         "assets/images/temp_1756309299338.jpg",
         "assets/images/temp_1756309299341.jpg"
       ]
+    },
+    {
+      "id": 44,
+      "title": "Trống sẳn ở được liền phòng siêu to siêu rộng ở được nhiều người",
+      "price": 7300000,
+      "address": "13b trần bình trọng p5 quận bình thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": null,
+      "images": [
+        "assets/images/temp_1756312729926.jpg",
+        "assets/images/temp_1756312729938.jpg",
+        "assets/images/temp_1756312729943.jpg",
+        "assets/images/temp_1756312729948.jpg",
+        "assets/images/temp_1756312729952.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Khai trương dự án mới 100% một phòng ngủ",
+      "price": 9700000,
+      "address": "217/102/13 Bùi Đình Tuý, P.24 quận bình thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": "Phòng ngủ mới 100% thuộc dự án vừa khai trương. Mã phòng hiện có: 103, 303.",
+      "images": [
+        "assets/images/temp_1756312761981.jpg",
+        "assets/images/temp_1756312761984.jpg",
+        "assets/images/temp_1756312761988.jpg",
+        "assets/images/temp_1756312761993.jpg",
+        "assets/images/temp_1756312761998.jpg",
+        "assets/images/temp_1756312762004.jpg",
+        "assets/images/temp_1756312762008.jpg",
+        "assets/images/temp_1756312762012.jpg",
+        "assets/images/temp_1756312762017.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Phòng trọ Mã 3.1 (1/9 trong)",
+      "price": 5.5,
+      "address": "117/123A Nguyễn Hữu Cảnh",
+      "electricPrice": 4000,
+      "waterPrice": "100000/người",
+      "servicePrice": "100000/phòng",
+      "parkingPrice": "100000/chiếc",
+      "description": "Mã phòng: 3.1. Nước tính theo đầu người. (Thông tin '1/9 trong' có thể ám chỉ số lượng phòng hoặc ngày có sẵn.)",
+      "images": [
+        "assets/images/temp_1756312792627.jpg",
+        "assets/images/temp_1756312792629.jpg",
+        "assets/images/temp_1756312792630.jpg",
+        "assets/images/temp_1756312792632.jpg",
+        "assets/images/temp_1756312792634.jpg",
+        "assets/images/temp_1756312792635.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Phòng trọ 1 phòng ngủ tách bếp siêu rộng (Mã 2.A)",
+      "price": 6.5,
+      "address": "598/60 điện biên phủ, Phường 22, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 200000,
+      "description": "Giá nước tính theo đầu người (100k/người). Giá gửi xe 200k/chiếc. Dịch vụ bao gồm: wifi riêng, máy giặt, máy sấy, thang máy, dọn dẹp vệ sinh hành lang.",
+      "images": [
+        "assets/images/temp_1756312827309.jpg",
+        "assets/images/temp_1756312827314.jpg",
+        "assets/images/temp_1756312827319.jpg",
+        "assets/images/temp_1756312827323.jpg",
+        "assets/images/temp_1756312827328.jpg",
+        "assets/images/temp_1756312827331.jpg",
+        "assets/images/temp_1756312827336.jpg",
+        "assets/images/temp_1756312827339.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Phòng P305 - 98A Đặng Thùy Trâm, Bình Thạnh - Giá 5.0 triệu",
+      "price": 5,
+      "address": "98A Đặng Thùy Trâm. P13, Bình Thạnh",
+      "electricPrice": 3800,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 120000,
+      "description": "Phòng P305 trống từ 30/8. Tòa nhà có thang máy, hầm xe, bảo vệ 24/24. Tiện ích chung gồm máy giặt và sân phơi trên sân thượng, wifi miễn phí. Nội thất phòng bao gồm máy lạnh, kệ bếp, tủ đồ. Có thể thêm tủ lạnh với phụ phí 200.000 VNĐ. Lưu ý: Không dùng bếp gas và không sạc xe điện trong tòa nhà.",
+      "images": [
+        "assets/images/temp_1756313048791.jpg",
+        "assets/images/temp_1756313048792.jpg",
+        "assets/images/temp_1756313048793.jpg",
+        "assets/images/temp_1756313048794.jpg",
+        "assets/images/temp_1756313048795.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Phòng P403 cửa sổ",
+      "price": 3800000,
+      "address": "41/29/17 Nguyễn Oanh. P10 Gò Vấp",
+      "electricPrice": 3800,
+      "waterPrice": 100000,
+      "servicePrice": 120000,
+      "parkingPrice": 0,
+      "description": "Nội thất bao gồm: Máy lạnh, tủ lạnh nhỏ, pallet nệm, quạt. Có bếp chung. Tiện ích nhà: Thang máy, máy giặt chung, hẻm xe hơi. Wifi miễn phí. Chỗ để xe miễn phí cho 2 chiếc. Phòng trống từ 30/8. (Giá nước 100k/người, Dịch vụ bao gồm sửa chữa bảo trì thiết bị, vệ sinh, rác, máy giặt).",
+      "images": [
+        "assets/images/temp_1756313074356.jpg",
+        "assets/images/temp_1756313074356.jpg",
+        "assets/images/temp_1756313074357.jpg",
+        "assets/images/temp_1756313074358.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Phòng P301",
+      "price": 4.2,
+      "address": "564/25/2 Phạm Văn Chiêu, P16 Gò Vấp",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 0,
+      "description": "Phòng P301 trống từ 30/8. Nội thất bao gồm: máy lạnh, tủ đồ, kệ bếp, pallet nệm. Tiện ích chung: Nhà thang bộ, máy giặt chung (phí sử dụng 20k/lần). Hẻm xe hơi vào tận nhà. Wifi miễn phí. Phí nước 100k/người. Phí dịch vụ (bao gồm sửa chữa thiết bị, vệ sinh, rác) là 100k/phòng. Chỗ đậu xe máy miễn phí cho 2 chiếc.",
+      "images": [
+        "assets/images/temp_1756313098383.jpg",
+        "assets/images/temp_1756313098384.jpg",
+        "assets/images/temp_1756313098386.jpg",
+        "assets/images/temp_1756313098388.jpg",
+        "assets/images/temp_1756313098389.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Phòng P102 564/25/2 Phạm Văn Chiêu, P16 Gò Vấp",
+      "price": 4.8,
+      "address": "564/25/2 Phạm Văn Chiêu, P16 Gò Vấp",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 0,
+      "description": "Phòng trống sẵn P102. Nội thất bao gồm: máy lạnh, tủ đồ, kệ bếp, tủ lạnh (Lưu ý: KHÔNG CÓ GIƯỜNG NỆM). Căn nhà thang bộ, có máy giặt chung (phí 20k/lần sử dụng). Hẻm xe hơi vào tận nhà. Wifi miễn phí. Chỗ đậu xe miễn phí cho 2 chiếc.",
+      "images": [
+        "assets/images/temp_1756313126780.jpg",
+        "assets/images/temp_1756313126782.jpg",
+        "assets/images/temp_1756313126785.jpg",
+        "assets/images/temp_1756313126787.jpg",
+        "assets/images/temp_1756313126791.jpg",
+        "assets/images/temp_1756313126794.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Phòng trọ P202",
+      "price": 4.2,
+      "address": "185/2C Phạm Văn Chiêu. P14 Gò Vấp",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 0,
+      "description": "Phòng trống sẵn. Nội thất bao gồm: máy lạnh, tủ lạnh, tủ đồ, kệ bếp. Nhà có thang bộ, khu giặt phơi sân thượng. Miễn phí gửi xe 2 chiếc.",
+      "images": [
+        "assets/images/temp_1756313160657.jpg",
+        "assets/images/temp_1756313160657.jpg",
+        "assets/images/temp_1756313160658.jpg",
+        "assets/images/temp_1756313160659.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Phòng P01 trệt rộng 28m2 tại 120/57/11 Đường số 59, P14 Gò Vấp",
+      "price": 3600000,
+      "address": "120/57/11 Đường số 59. P14 Gò Vấp",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 0,
+      "description": "Phòng P01 trệt rộng 28m2, trống sẵn. Nội thất bao gồm: Máy lạnh, kệ bếp, tủ đồ. Có tùy chọn thêm tủ lạnh với phụ phí 200k/tháng. Nhà thang bộ, có khu vực giặt phơi chung. Wifi miễn phí.",
+      "images": [
+        "assets/images/temp_1756313177674.jpg",
+        "assets/images/temp_1756313177675.jpg",
+        "assets/images/temp_1756313177676.jpg",
+        "assets/images/temp_1756313177676.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Phòng 101 - Dự án 241/4 Phạm Văn Đồng",
+      "price": 5.8,
+      "address": "241/4 Phạm Văn Đồng, phường 1, Gò Vấp",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Phòng 101: Ban công, full nội thất, lầu 1 thang bộ. Trống từ 01/09.",
+      "images": [
+        "assets/images/temp_1756313343918.jpg",
+        "assets/images/temp_1756313343919.jpg",
+        "assets/images/temp_1756313343920.jpg",
+        "assets/images/temp_1756313343921.jpg",
+        "assets/images/temp_1756313343922.jpg",
+        "assets/images/temp_1756313343923.jpg",
+        "assets/images/temp_1756313343925.jpg",
+        "assets/images/temp_1756313343927.jpg",
+        "assets/images/temp_1756313343929.jpg",
+        "assets/images/temp_1756313343930.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Phòng P102 - Trống sẵn từ 1/9 - 269 Nguyễn Văn Công, P3, GV",
+      "price": 4.5,
+      "address": "269 Nguyễn Văn Công, P3, GV",
+      "electricPrice": 3900,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng P102 trống từ 1/9, có đầy đủ nội thất: Máy lạnh, giường, tủ quần áo, bộ bàn ghế, tủ bếp. (Hiện tại còn trống thêm phòng G01 giá 4tr8).",
+      "images": [
+        "assets/images/temp_1756313404443.jpg",
+        "assets/images/temp_1756313404445.jpg",
+        "assets/images/temp_1756313404448.jpg",
+        "assets/images/temp_1756313404450.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Phòng P102 - Trống sẵn",
+      "price": 5.5,
+      "address": "269 Nguyễn Văn Công, P3, GV",
+      "electricPrice": 3900,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng trống sẵn từ 1/9. Bao gồm nội thất đầy đủ: Máy lạnh, giường, tủ quần áo, bộ bàn ghế, tủ bếp.",
+      "images": [
+        "assets/images/temp_1756313446813.jpg",
+        "assets/images/temp_1756313446815.jpg",
+        "assets/images/temp_1756313446818.jpg",
+        "assets/images/temp_1756313446821.jpg",
+        "assets/images/temp_1756313446824.jpg",
+        "assets/images/temp_1756313446829.jpg",
+        "assets/images/temp_1756313446833.jpg",
+        "assets/images/temp_1756313446836.jpg",
+        "assets/images/temp_1756313446840.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Phòng P104 - 94 Đường số 1, P16, Gò Vấp",
+      "price": 7.5,
+      "address": "94 Đường số 1, P16, Gò Vấp",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Phòng ngủ riêng, full nội thất, 2 ban công.",
+      "images": [
+        "assets/images/temp_1756313475526.jpg",
+        "assets/images/temp_1756313475528.jpg",
+        "assets/images/temp_1756313475530.jpg",
+        "assets/images/temp_1756313475532.jpg",
+        "assets/images/temp_1756313475534.jpg"
+      ]
     }
   ]
 }
