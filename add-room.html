@@ -95,35 +95,40 @@
             <div id="result"></div>
         </div>
     </div>
-    <script src="./gemini_ai.js"></script>
     <script>
         document.getElementById('addRoomForm').onsubmit = async function(e) {
             e.preventDefault();
             const phongTroText = document.getElementById('phongTroText').value;
-            document.getElementById("images").addEventListener("change", function (e) {
-            const imageFiles = e.target.files;
-            if (imageFiles.length > 0) {
-            for (let i = 0; i < imageFiles.length; i++) {
-                const file = imageFiles[i];
-                const url = URL.createObjectURL(file);
-
-                // Tạo thẻ <a> ẩn để download
-                const a = document.createElement("a");
-                a.href = url;
-                a.download = file.name;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-
-                URL.revokeObjectURL(url);
-            }
-            }
-        });
+            const imageFiles = document.getElementById('images').files;
+            let uploadedImages = [];
+            
             try {
+                // Bước 1: Nếu có ảnh từ máy, upload trước
+                if (imageFiles && imageFiles.length > 0) {
+                    const formData = new FormData();
+                    formData.append('roomId', 'temp'); // Tạm thời dùng 'temp', sẽ đổi tên sau
+                    for (let i = 0; i < imageFiles.length; i++) {
+                        formData.append('images', imageFiles[i]);
+                    }
+                    const uploadRes = await fetch('http://localhost:3000/api/upload-images', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    const uploadData = await uploadRes.json();
+                    if (uploadData.files) {
+                        uploadedImages = uploadData.files;
+                    }
+                    document.getElementById('result').textContent = uploadData.message || 'Upload ảnh thành công!';
+                }
+
+                // Bước 2: Gọi API tạo phòng với thông tin ảnh đã upload
                 const res = await fetch('http://localhost:3000/api/add-room', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ phongTroText })
+                    body: JSON.stringify({ 
+                        phongTroText,
+                        images: uploadedImages
+                    })
                 });
                 const data = await res.json();
                 document.getElementById('result').textContent = data.message || 'Thêm phòng thành công!';
