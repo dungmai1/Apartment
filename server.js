@@ -85,7 +85,7 @@ app.post("/api/add-room", async (req, res) => {
     if (images && images.length > 0) {
       newRoom.images = images.map(img => `assets/images/${img}`);
     }
-    
+    deleteAllTestFiles();
     appendRoomToJson(newRoom);
     res.json({ message: "Thêm phòng thành công!", roomId: nextId });
   } catch (err) {
@@ -122,6 +122,34 @@ app.post("/api/download-image", async (req, res) => {
     res.status(500).json({ message: "Lỗi: " + err.message });
   }
 });
+
+// Function to delete all files in test folder
+function deleteAllTestFiles() {
+  const testDir = path.join(process.cwd(), './test');
+  
+  try {
+    // Check if test directory exists
+    if (fs.existsSync(testDir)) {
+      const files = fs.readdirSync(testDir);
+      
+      files.forEach(file => {
+        const filePath = path.join(testDir, file);
+        const stat = fs.statSync(filePath);
+        
+        if (stat.isFile()) {
+          fs.unlinkSync(filePath);
+          console.log(`Deleted file: ${file}`);
+        }
+      });
+      
+      console.log(`Deleted ${files.filter(file => fs.statSync(path.join(testDir, file)).isFile()).length} files from test folder`);
+    } else {
+      console.log('Test folder does not exist');
+    }
+  } catch (error) {
+    console.error('Error deleting files from test folder:', error.message);
+  }
+}
 
 app.listen(3000, () => {
   console.log("API server running at http://localhost:3000");

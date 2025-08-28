@@ -65,8 +65,9 @@ class RoomManager {
         // Filters
         const priceFilter = document.getElementById('priceFilter');
         const areaFilter = document.getElementById('areaFilter');
+        const addressSearch = document.getElementById('addressSearch');
         
-        console.log('Initializing event listeners:', { priceFilter, areaFilter });
+        console.log('Initializing event listeners:', { priceFilter, areaFilter, addressSearch });
         
         if (priceFilter) {
             priceFilter.addEventListener('change', () => {
@@ -84,6 +85,20 @@ class RoomManager {
             });
         } else {
             console.warn('Area filter element not found');
+        }
+
+        if (addressSearch) {
+            // Thêm debounce để tránh tìm kiếm quá nhiều lần khi gõ
+            let searchTimeout;
+            addressSearch.addEventListener('input', () => {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    console.log('Address search changed to:', addressSearch.value);
+                    this.renderRooms();
+                }, 300); // Đợi 300ms sau khi người dùng ngừng gõ
+            });
+        } else {
+            console.warn('Address search element not found');
         }
 
         // Gallery modal controls
@@ -145,12 +160,14 @@ class RoomManager {
     getFilteredRooms() {
         const priceFilter = document.getElementById('priceFilter')?.value;
         const areaFilter = document.getElementById('areaFilter')?.value;
+        const addressSearch = document.getElementById('addressSearch')?.value;
         
-        console.log('Filtering with:', { priceFilter, areaFilter }); // Debug
+        console.log('Filtering with:', { priceFilter, areaFilter, addressSearch }); // Debug
         
         return this.rooms.filter(room => {
             let matchesPrice = true;
             let matchesArea = true;
+            let matchesAddressSearch = true;
             
             // Filter theo giá - chuyển đổi giá từ triệu VNĐ
             if (priceFilter && room.price !== null) {
@@ -182,8 +199,21 @@ class RoomManager {
                 matchesArea = this.matchesArea(room.address, areaFilter);
                 console.log(`Room ${room.id}: address="${room.address}", filter="${areaFilter}", matches=${matchesArea}`);
             }
+
+            // Filter theo tìm kiếm địa chỉ
+            if (addressSearch && addressSearch.trim() !== '' && room.address) {
+                const normalizedSearch = this.normalizeString(addressSearch.trim());
+                const normalizedAddress = this.normalizeString(room.address);
+                const normalizedTitle = this.normalizeString(room.title || '');
+                
+                // Tìm kiếm trong cả địa chỉ và tiêu đề phòng
+                matchesAddressSearch = normalizedAddress.includes(normalizedSearch) || 
+                                     normalizedTitle.includes(normalizedSearch);
+                
+                console.log(`Room ${room.id}: search="${normalizedSearch}", address="${normalizedAddress}", title="${normalizedTitle}", matches=${matchesAddressSearch}`);
+            }
             
-            const result = matchesPrice && matchesArea;
+            const result = matchesPrice && matchesArea && matchesAddressSearch;
             console.log(`Room ${room.id} final result: ${result}`);
             return result;
         });
