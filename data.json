@@ -1342,7 +1342,7 @@
     {
       "id": 83,
       "title": "G06 (cửa sổ) - (TRỐNG SẴN)",
-      "price": 4200000,
+      "price": 4.2,
       "address": "124 NGÔ TẤT TỐ, BÌNH THẠNH",
       "electricPrice": 4000,
       "waterPrice": 100000,
@@ -1696,6 +1696,166 @@
         "assets/images/temp_1756533247890.jpg",
         "assets/images/temp_1756533247892.jpg",
         "assets/images/temp_1756533247894.jpg"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Phòng trọ G01, 103, 203, 303, 503",
+      "price": 4.8,
+      "address": "329 Nguyễn Xí, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng trống sẵn. Trang bị kệ bếp, máy lạnh, CST. Phí gửi xe giới hạn 2 chiếc/phòng.",
+      "images": [
+        "assets/images/temp_1756535017733.jpg",
+        "assets/images/temp_1756535017738.jpg",
+        "assets/images/temp_1756535017741.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "LẦU 2 - CUỐI THÁNG TRỐNG",
+      "price": 5,
+      "address": "21 Ngô Đức Kế, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Bếp ngoài ban công thoáng mát 💨 💫 🌟",
+      "images": [
+        "assets/images/temp_1756535064458.jpg",
+        "assets/images/temp_1756535064460.jpg",
+        "assets/images/temp_1756535064462.jpg",
+        "assets/images/temp_1756535064464.jpg",
+        "assets/images/temp_1756535064466.jpg",
+        "assets/images/temp_1756535064467.jpg",
+        "assets/images/temp_1756535064469.jpg",
+        "assets/images/temp_1756535064471.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Phòng trọ 9/48 Võ Trường Toản, P2 Bình Thạnh, hẻm xe hơi",
+      "price": 6.5,
+      "address": "9/48 Võ Trường Toản, Phường 2, Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Phòng trống từ ngày 1/9. Vui lòng liên hệ trước để xem phòng. Phòng nằm ở lầu 2, đi thang bộ. Có ban công riêng và máy giặt riêng ngay tại phòng. Vị trí ngay Vũ Tùng, Bình Thạnh. Hẻm rộng, xe hơi có thể vào được.",
+      "images": [
+        "assets/images/temp_1756535656476.jpg",
+        "assets/images/temp_1756535656477.jpg",
+        "assets/images/temp_1756535656479.jpg",
+        "assets/images/temp_1756535656480.jpg",
+        "assets/images/temp_1756535656481.jpg",
+        "assets/images/temp_1756535656482.jpg",
+        "assets/images/temp_1756535656483.jpg",
+        "assets/images/temp_1756535656484.jpg",
+        "assets/images/temp_1756535656485.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Phòng trọ hẻm xe hơi có sân vườn, máy giặt riêng, Bình Thạnh",
+      "price": 7.2,
+      "address": "118/83A5 Bạch Đằng, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100,
+      "servicePrice": 200,
+      "parkingPrice": null,
+      "description": "Phòng trọ nằm trong hẻm xe hơi, hiện đang trống và đang trong quá trình làm vách để tách riêng một phòng ngủ và khu bếp. Phía sau có sân vườn rộng rãi, thoáng mát và đón nắng trời trực tiếp. Phòng được trang bị máy giặt riêng. Chỗ ở phù hợp cho 2-3 người, tối đa 2 xe máy nhỏ. Lưu ý: Không nhận khách nuôi thú cưng, không nhận xe điện, xe mô tô hoặc xe SH kích thước lớn.",
+      "images": [
+        "assets/images/temp_1756535677661.jpg",
+        "assets/images/temp_1756535677662.jpg",
+        "assets/images/temp_1756535677663.jpg",
+        "assets/images/temp_1756535677664.jpg",
+        "assets/images/temp_1756535677664.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Phòng 203 - 11/7 Hồ Xuân Hương, P14, Bình Thạnh",
+      "price": 4.8,
+      "address": "11/7 Hồ Xuân Hương, P14, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 0,
+      "description": "Phòng trống từ 01/09. Không nuôi pet. Nội thất như hình. Dịch vụ bao gồm rác, Wifi, máy giặt. Miễn phí gửi 2 xe.",
+      "images": [
+        "assets/images/temp_1756535793110.jpg",
+        "assets/images/temp_1756535793112.jpg",
+        "assets/images/temp_1756535793114.jpg",
+        "assets/images/temp_1756535793115.jpg",
+        "assets/images/temp_1756535793116.jpg",
+        "assets/images/temp_1756535793118.jpg",
+        "assets/images/temp_1756535793119.jpg",
+        "assets/images/temp_1756535793121.jpg",
+        "assets/images/temp_1756535793123.jpg",
+        "assets/images/temp_1756535793125.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Phòng 202 Trống Sẵn",
+      "price": 9000000,
+      "address": "215/36A Nguyễn Xí - P13 - Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": "Phòng trống sẵn, full nội thất như hình. Hẻm xe tải, có hầm xe và thang máy. PCCC tốt, camera an ninh đảm bảo an toàn. Giờ giấc tự do, không chung chủ.",
+      "images": [
+        "assets/images/temp_1756535898110.jpg",
+        "assets/images/temp_1756535898113.jpg",
+        "assets/images/temp_1756535898116.jpg",
+        "assets/images/temp_1756535898120.jpg",
+        "assets/images/temp_1756535898124.jpg",
+        "assets/images/temp_1756535898127.jpg",
+        "assets/images/temp_1756535898131.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Phòng 1 PN riêng TÁCH BIỆT_45m2, Ban công siêu rộng",
+      "price": 7.8,
+      "address": "47/52/17 bùi đình túy, phường bình thạnh",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": null,
+      "description": "Phòng trống từ 30/8. Phòng 1 phòng ngủ riêng biệt, diện tích 45m2, có ban công siêu rộng. Nước tính theo đầu người (100k/người). Tối đa để được 2 xe máy.",
+      "images": [
+        "assets/images/temp_1756535971127.jpg",
+        "assets/images/temp_1756535971128.jpg",
+        "assets/images/temp_1756535971129.jpg",
+        "assets/images/temp_1756535971130.jpg",
+        "assets/images/temp_1756535971130.jpg",
+        "assets/images/temp_1756535971131.jpg",
+        "assets/images/temp_1756535971132.jpg",
+        "assets/images/temp_1756535971133.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Phòng trọ Full nội thất, Ban Công, WC riêng, Giờ Giấc Tự Do",
+      "price": 8,
+      "address": "23A Nguyễn Hữu Cảnh, P22, Bình Thạnh (P201-L2)",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": null,
+      "description": "Phòng trọ đầy đủ nội thất, có ban công, WC riêng, bếp. Giờ giấc tự do, không chung chủ. Giá nước 100k/người. Phí Wifi và rác 150k/phòng.",
+      "images": [
+        "assets/images/temp_1756536007579.jpg",
+        "assets/images/temp_1756536007580.jpg",
+        "assets/images/temp_1756536007581.jpg",
+        "assets/images/temp_1756536007582.jpg",
+        "assets/images/temp_1756536007583.jpg",
+        "assets/images/temp_1756536007584.jpg"
       ]
     }
   ]

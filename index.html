@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CHO THUÊ CĂN HỘ DỊCH VỤ TPHCM</title>
+    <title>🇻🇳 CHO THUÊ CĂN HỘ DỊCH VỤ TPHCM - MỪNG QUỐC KHÁNH 2/9 🇻🇳</title>
     <link rel="stylesheet" href="./styles.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -17,17 +17,79 @@
 
         body {
             font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #da020e 0%, #ffed00 100%);
             min-height: 100vh;
             color: #333;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* Chủ đề ngày 2/9 - Quốc khánh */
+        .national-day-banner {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(90deg, #da020e 0%, #ffed00 50%, #da020e 100%);
+            color: white;
+            text-align: center;
+            padding: 8px 0;
+            font-weight: 600;
+            font-size: 0.9rem;
+            z-index: 10000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            animation: slideDown 1s ease-out;
+        }
+
+        @keyframes slideDown {
+            from { transform: translateY(-100%); }
+            to { transform: translateY(0); }
+        }
+
+        .flag-animation {
+            display: inline-block;
+            animation: wave 2s ease-in-out infinite;
+        }
+
+        @keyframes wave {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(5deg); }
+            75% { transform: rotate(-5deg); }
+        }
+
+        /* Tuyết rơi hiệu ứng */
+        .fireworks {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .firework {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: #ffed00;
+            border-radius: 50%;
+            animation: fireworkFall 4s linear infinite;
+        }
+
+        @keyframes fireworkFall {
+            to {
+                transform: translateY(100vh) rotate(360deg);
+            }
         }
 
         .hero-section {
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.9), rgba(118, 75, 162, 0.9));
-            padding: 30px 0;
+            background: linear-gradient(135deg, rgba(218, 2, 14, 0.9), rgba(255, 237, 0, 0.8));
+            padding: 50px 0 30px;
             text-align: center;
             position: relative;
             overflow: hidden;
+            margin-top: 40px;
         }
 
         .hero-section::before {
@@ -37,8 +99,17 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: url('data:image/svg+xml,<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g fill="%23ffffff" fill-opacity="0.1"><circle cx="30" cy="30" r="2"/></g></svg>');
+            background: url('data:image/svg+xml,<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g fill="%23ffed00" fill-opacity="0.3"><circle cx="30" cy="30" r="2"/></g></svg>');
             animation: float 20s ease-in-out infinite;
+        }
+
+        .hero-section::after {
+            content: '🇻🇳';
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 3rem;
+            animation: wave 3s ease-in-out infinite;
         }
 
         @keyframes float {
@@ -63,8 +134,25 @@
             font-size: 2rem;
             font-weight: 600;
             margin-bottom: 15px;
-            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            text-shadow: 0 2px 10px rgba(0,0,0,0.3);
             animation: slideInDown 1s ease-out;
+        }
+
+        .national-day-title {
+            background: linear-gradient(45deg, #da020e, #ffed00, #da020e);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            color: transparent;
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            animation: shimmer 2s ease-in-out infinite;
+        }
+
+        @keyframes shimmer {
+            0% { background-position: -1000px 0; }
+            100% { background-position: 1000px 0; }
         }
 
         @keyframes slideInDown {
@@ -98,9 +186,9 @@
         }
 
         .contact-link {
-            background: rgba(255,255,255,0.15);
+            background: rgba(255,255,255,0.2);
             backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.2);
+            border: 2px solid rgba(255,237,0,0.5);
             color: white;
             text-decoration: none;
             padding: 10px 18px;
@@ -114,9 +202,10 @@
         }
 
         .contact-link:hover {
-            background: rgba(255,255,255,0.25);
+            background: rgba(255,237,0,0.3);
+            border-color: rgba(218,2,14,0.8);
             transform: translateY(-3px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 25px rgba(218,2,14,0.3);
         }
 
         .main-content {
@@ -128,9 +217,9 @@
         }
 
         .filters {
-            background: linear-gradient(135deg, #f8f9ff 0%, #e8f2ff 100%);
+            background: linear-gradient(135deg, #fff8e7 0%, #ffe4e4 100%);
             padding: 20px;
-            border-bottom: 1px solid #e1e8ed;
+            border-bottom: 2px solid #ffed00;
             display: flex;
             gap: 20px;
             justify-content: center;
@@ -162,8 +251,8 @@
 
         .filter-group select:focus {
             outline: none;
-            border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            border-color: #da020e;
+            box-shadow: 0 0 0 3px rgba(218, 2, 14, 0.2);
         }
 
         .search-input {
@@ -178,8 +267,8 @@
 
         .search-input:focus {
             outline: none;
-            border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            border-color: #da020e;
+            box-shadow: 0 0 0 3px rgba(218, 2, 14, 0.2);
         }
 
         .search-input::placeholder {
@@ -203,7 +292,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #da020e 0%, #ffed00 100%);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -276,7 +365,7 @@
             left: 0;
             right: 0;
             height: 4px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #da020e, #ffed00);
         }
 
         .room-card:hover {
@@ -301,7 +390,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="%23667eea" stroke-width="0.5" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="%23da020e" stroke-width="0.5" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
         }
 
         .room-card-content {
@@ -322,7 +411,7 @@
         }
 
         .room-price {
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #da020e, #ffed00);
             color: white;
             padding: 6px 12px;
             border-radius: 10px;
@@ -330,6 +419,7 @@
             font-size: 1rem;
             display: inline-block;
             margin-bottom: 12px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
         }
 
         .room-info {
@@ -348,7 +438,7 @@
         }
 
         .info-item i {
-            color: #667eea;
+            color: #da020e;
             width: 16px;
         }
 
@@ -360,7 +450,7 @@
 
         .btn-view {
             flex: 1;
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #da020e, #ffed00);
             color: white;
             border: none;
             padding: 10px 16px;
@@ -373,17 +463,18 @@
             align-items: center;
             justify-content: center;
             gap: 6px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
         }
 
         .btn-view:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+            box-shadow: 0 8px 25px rgba(218, 2, 14, 0.4);
         }
 
         .btn-contact {
             background: white;
-            color: #667eea;
-            border: 2px solid #667eea;
+            color: #da020e;
+            border: 2px solid #da020e;
             padding: 10px 14px;
             border-radius: 10px;
             cursor: pointer;
@@ -395,7 +486,7 @@
         }
 
         .btn-contact:hover {
-            background: #667eea;
+            background: #da020e;
             color: white;
         }
 
@@ -424,7 +515,7 @@
             position: fixed;
             bottom: 30px;
             right: 30px;
-            background: rgba(102, 126, 234, 0.9);
+            background: rgba(218, 2, 14, 0.9);
             color: white;
             border: none;
             border-radius: 50%;
@@ -445,7 +536,7 @@
 
         .back-to-top:hover {
             transform: translateY(-3px);
-            background: rgba(102, 126, 234, 1);
+            background: rgba(218, 2, 14, 1);
         }
 
         /* Responsive Design */
@@ -507,11 +598,23 @@
     </style>
 </head>
 <body>
+    <!-- National Day Banner -->
+    <div class="national-day-banner">
+        <span class="flag-animation">🇻🇳</span>
+        CHÚC MỪNG QUỐC KHÁNH 2/9 - VIỆT NAM VẺ VANG!
+        <span class="flag-animation">🇻🇳</span>
+    </div>
+
+    <!-- Fireworks Animation -->
+    <div class="fireworks" id="fireworks">
+        <!-- Sao vàng rơi sẽ được tạo bằng JavaScript -->
+    </div>
+
     <!-- Loading Screen -->
     <div class="loading-screen" id="loadingScreen">
         <div class="loader">
             <div class="spinner"></div>
-            <div class="loading-text">Đang tải phòng...</div>
+            <div class="loading-text">🇻🇳 Đang tải phòng... 🇻🇳</div>
         </div>
     </div>
 
@@ -519,6 +622,9 @@
     <div class="hero-section">
         <div class="container">
             <header>
+                <div class="national-day-title">
+                    🇻🇳 MỪNG QUỐC KHÁNH 2/9 - 79 NĂM ĐỘC LẬP 🇻🇳
+                </div>
                 <h1><i class="fas fa-building"></i>Phòng trọ - CHDV tại TPHCM</h1>
                 <div class="contact-info">
                     <a href="https://www.facebook.com/dung.maiiii/" target="_blank" class="contact-link">
@@ -620,10 +726,91 @@
     <script src="./dataManager.js"></script>
     <script src="./script.js"></script>
     <script>
+        // National Day Stars Animation
+        function createStar() {
+            const fireworks = document.getElementById('fireworks');
+            const star = document.createElement('div');
+            star.classList.add('firework');
+            star.innerHTML = '⭐';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.animationDuration = (Math.random() * 3 + 2) + 's';
+            star.style.fontSize = (Math.random() * 10 + 15) + 'px';
+            star.style.opacity = Math.random() * 0.8 + 0.2;
+            
+            fireworks.appendChild(star);
+            
+            setTimeout(() => {
+                star.remove();
+            }, 5000);
+        }
+
+        // Create stars periodically
+        setInterval(createStar, 1000);
+
+        // National Day greeting
+        function showNationalDayGreeting() {
+            setTimeout(() => {
+                if (Math.random() > 0.7) {
+                    const messages = [
+                        "🇻🇳 Chúc mừng Quốc khánh 2/9! 🇻🇳",
+                        "🏮 79 năm Độc lập - Tự do - Hạnh phúc! 🏮",
+                        "🎆 Việt Nam vẻ vang! 🎆"
+                    ];
+                    const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+                    
+                    // Create toast notification
+                    const toast = document.createElement('div');
+                    toast.style.cssText = `
+                        position: fixed;
+                        top: 80px;
+                        right: 20px;
+                        background: linear-gradient(135deg, #da020e, #ffed00);
+                        color: white;
+                        padding: 15px 20px;
+                        border-radius: 10px;
+                        font-weight: 600;
+                        z-index: 10001;
+                        box-shadow: 0 5px 20px rgba(218,2,14,0.3);
+                        animation: slideInRight 0.5s ease;
+                        cursor: pointer;
+                    `;
+                    toast.innerHTML = randomMessage;
+                    document.body.appendChild(toast);
+                    
+                    toast.addEventListener('click', () => {
+                        toast.style.animation = 'slideOutRight 0.5s ease';
+                        setTimeout(() => toast.remove(), 500);
+                    });
+                    
+                    setTimeout(() => {
+                        if (toast.parentNode) {
+                            toast.style.animation = 'slideOutRight 0.5s ease';
+                            setTimeout(() => toast.remove(), 500);
+                        }
+                    }, 4000);
+                }
+            }, 3000);
+        }
+
+        // Add CSS for toast animations
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideInRight {
+                from { transform: translateX(100%); opacity: 0; }
+                to { transform: translateX(0); opacity: 1; }
+            }
+            @keyframes slideOutRight {
+                from { transform: translateX(0); opacity: 1; }
+                to { transform: translateX(100%); opacity: 0; }
+            }
+        `;
+        document.head.appendChild(style);
+
         // Loading Screen
         window.addEventListener('load', function() {
             setTimeout(() => {
                 document.getElementById('loadingScreen').classList.add('hidden');
+                showNationalDayGreeting();
             }, 1500);
         });
 
