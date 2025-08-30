@@ -8,7 +8,7 @@ import path from "path";
 import https from "https";
 import http from "http";
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyDrxTCTnpYvBjPpY5o87ZRcuhP8hHYiqbU" });
+const ai = new GoogleGenAI({ apiKey: "AIzaSyAsBo4d0jyaV5Ty7mEn66XJ4oGSNPsxizE" });
 const app = express();
 app.use(cors());
 app.use(bodyParser.json());
