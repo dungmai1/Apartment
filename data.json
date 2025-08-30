@@ -1340,22 +1340,6 @@
       ]
     },
     {
-      "id": 83,
-      "title": "G06 (cửa sổ) - (TRỐNG SẴN)",
-      "price": 4.2,
-      "address": "124 NGÔ TẤT TỐ, BÌNH THẠNH",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "👉 CHÍNH SÁCH CHUNG CỦA CÁC NHÀ 👈",
-      "images": [
-        "assets/images/temp_1756532255789.jpg",
-        "assets/images/temp_1756532255789.jpg",
-        "assets/images/temp_1756532255790.jpg"
-      ]
-    },
-    {
       "id": 84,
       "title": "Phòng 104 204 ban công",
       "price": 6.5,
@@ -1856,6 +1840,66 @@
         "assets/images/temp_1756536007582.jpg",
         "assets/images/temp_1756536007583.jpg",
         "assets/images/temp_1756536007584.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Căn Hộ 34 Bế Văn Đàn, Phường 14, Tân Bình ( Setup dạng Homestay siêu xinh )",
+      "price": 7.5,
+      "address": "34 Bế Văn Đàn, Phường 14, Tân Bình",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Trống Phòng Lầu 1: 102 - Studio Lớn 1PN, 1PK, 2 Cửa sổ siêu thoáng mát. Giá ưu đãi còn 7.500.000 (cho khách thiện chí). Full nội thất Cao Cấp, cửa phòng vân tay, máy chiếu phim có loa, đèn chill, nước nóng lạnh.",
+      "images": [
+        "assets/images/temp_1756540243728.jpg",
+        "assets/images/temp_1756540243731.jpg",
+        "assets/images/temp_1756540243736.jpg",
+        "assets/images/temp_1756540243744.jpg",
+        "assets/images/temp_1756540243746.jpg",
+        "assets/images/temp_1756540243754.jpg",
+        "assets/images/temp_1756540243763.jpg",
+        "assets/images/temp_1756540243765.jpg",
+        "assets/images/temp_1756540243772.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "P7. Trống sẵn",
+      "price": 2900000,
+      "address": "24 Mai Xuân Thưởng - Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Diện tích phòng: 20m2. Nội thất cơ bản. Cọc 1 tháng.",
+      "images": [
+        "assets/images/temp_1756540308759.jpg",
+        "assets/images/temp_1756540308760.jpg",
+        "assets/images/temp_1756540308761.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Căn Duplex Mã 202",
+      "price": 5.9,
+      "address": "46 Nguyễn Thanh Tuyền, Tân Bình",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Căn duplex mã 202, trống sẵn từ ngày 30/8. Giá gốc 6.2 triệu, hiện đang giảm còn 5.9 triệu.",
+      "images": [
+        "assets/images/temp_1756540591835.jpg",
+        "assets/images/temp_1756540591836.jpg",
+        "assets/images/temp_1756540591839.jpg",
+        "assets/images/temp_1756540591842.jpg",
+        "assets/images/temp_1756540591844.jpg",
+        "assets/images/temp_1756540591846.jpg",
+        "assets/images/temp_1756540591849.jpg",
+        "assets/images/temp_1756540591852.jpg",
+        "assets/images/temp_1756540591856.jpg"
       ]
     }
   ]
