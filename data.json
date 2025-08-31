@@ -363,38 +363,6 @@
       ]
     },
     {
-      "id": 24,
-      "title": "Phòng trọ 346/48 Phan Văn Trị, Bình Thạnh",
-      "price": 4.7,
-      "address": "346/48 Phan Văn Trị, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Giá thuê không bao gồm nội thất. Có thể thuê thêm tủ lạnh (300.000 VNĐ/tháng) và tủ quần áo (200.000 VNĐ/tháng). Miễn phí gửi xe (tối đa 2 xe máy).",
-      "images": [
-        "assets/images/temp_1756308604259.jpg",
-        "assets/images/temp_1756308604261.jpg",
-        "assets/images/temp_1756308604263.jpg"
-      ]
-    },
-    {
-      "id": 25,
-      "title": "Phòng trọ 347 XVNT",
-      "price": 4.3,
-      "address": "347 xvnt phường 25 bình thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Phụ phí: Tủ lạnh thêm 300k, Tủ quần áo thêm 200k",
-      "images": [
-        "assets/images/temp_1756308667954.jpg",
-        "assets/images/temp_1756308667957.jpg",
-        "assets/images/temp_1756308667958.jpg"
-      ]
-    },
-    {
       "id": 26,
       "title": "Phòng trọ Hẻm xe tải Gò Vấp - Sơn mới, phù hợp 1-2 người",
       "price": 4,
