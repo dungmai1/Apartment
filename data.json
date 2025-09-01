@@ -3021,6 +3021,71 @@
         "assets/images/temp_1756712982348.jpg",
         "assets/images/temp_1756712982349.jpg"
       ]
+    },
+    {
+      "id": 180,
+      "title": "Phòng trọ P4 - 237/11 Phan Đình Phùng, Phú Nhuận",
+      "price": 8,
+      "address": "237/11 Phan Đình Phùng, P15, Phú Nhuận",
+      "electricPrice": 4000,
+      "waterPrice": "100k/người",
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng P4 trống sẵn. Trang bị máy sấy miễn phí. Chỗ để xe miễn phí (giới hạn 2 xe).",
+      "images": [
+        "assets/images/temp_1756713394919.jpg",
+        "assets/images/temp_1756713394927.jpg",
+        "assets/images/temp_1756713394935.jpg",
+        "assets/images/temp_1756713394941.jpg",
+        "assets/images/temp_1756713394945.jpg",
+        "assets/images/temp_1756713394951.jpg",
+        "assets/images/temp_1756713394954.jpg",
+        "assets/images/temp_1756713394958.jpg",
+        "assets/images/temp_1756713394961.jpg"
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Phòng trọ P2 - 102/10 Thích Quảng Đức P5. Phú Nhuận",
+      "price": 5.6,
+      "address": "102/10 Thích Quảng Đức P5. Phú Nhuận",
+      "electricPrice": 4000,
+      "waterPrice": 150000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng trống sẵn. Miễn phí gửi xe (giới hạn 2 xe).",
+      "images": [
+        "assets/images/temp_1756713431011.jpg",
+        "assets/images/temp_1756713431013.jpg",
+        "assets/images/temp_1756713431015.jpg",
+        "assets/images/temp_1756713431018.jpg",
+        "assets/images/temp_1756713431020.jpg",
+        "assets/images/temp_1756713431022.jpg",
+        "assets/images/temp_1756713431025.jpg",
+        "assets/images/temp_1756713431025.jpg"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Phòng trọ mã 202 tại 243/2H Phan Đình Phùng, P15, Phú Nhuận",
+      "price": 12500000,
+      "address": "243/2H Phan Đình Phùng, P15, Phú Nhuận",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng trọ mã 202, trống sẵn. Giá nước tính theo đầu người (100.000 VND/người). Phí dịch vụ là 200.000 VND/phòng. Chỗ đậu xe miễn phí, giới hạn tối đa 2 xe.",
+      "images": [
+        "assets/images/temp_1756713575156.jpg",
+        "assets/images/temp_1756713575158.jpg",
+        "assets/images/temp_1756713575161.jpg",
+        "assets/images/temp_1756713575165.jpg",
+        "assets/images/temp_1756713575167.jpg",
+        "assets/images/temp_1756713575171.jpg",
+        "assets/images/temp_1756713575173.jpg",
+        "assets/images/temp_1756713575176.jpg",
+        "assets/images/temp_1756713575179.jpg"
+      ]
     }
   ]
 }
