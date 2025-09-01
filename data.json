@@ -1930,7 +1930,7 @@
     {
       "id": 126,
       "title": "Phòng Studio P102 có ban công thoáng, B22/39 Bạch Đằng, Tân Bình",
-      "price": 6000000,
+      "price": 6,
       "address": "B22/39 Bạch Đằng, P2, Tân Bình",
       "electricPrice": 4000,
       "waterPrice": 100000,
@@ -2893,6 +2893,133 @@
         "assets/images/temp_1756712376370.jpg",
         "assets/images/temp_1756712376370.jpg",
         "assets/images/temp_1756712376371.jpg"
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Phòng trọ Duplex 125/51/1 Bùi Đình Túy, P.14, Bình Thạnh",
+      "price": 5.7,
+      "address": "125/51/1 Bùi Đình Túy, P.14, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Mã phòng: 203. Phòng duplex, gác cao mới, có thể ở được 4-5 người thoải mái. Nội thất bao gồm: Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo. Vị trí thuận tiện: gần chợ, khu vực trung tâm, thuận tiện đi Q1, Gò Vấp, Q2. Giá nước tính theo đầu người.",
+      "images": [
+        "assets/images/temp_1756712598898.jpg",
+        "assets/images/temp_1756712598906.jpg",
+        "assets/images/temp_1756712598912.jpg",
+        "assets/images/temp_1756712598916.jpg",
+        "assets/images/temp_1756712598920.jpg",
+        "assets/images/temp_1756712598923.jpg",
+        "assets/images/temp_1756712598927.jpg"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Phòng mới keng 100% 2PN ban công",
+      "price": 9.3,
+      "address": "244/24 Huỳnh văn Bánh",
+      "electricPrice": 4000,
+      "waterPrice": 100,
+      "servicePrice": 200,
+      "parkingPrice": 0,
+      "description": "Phòng mới keng 100%, có 2 phòng ngủ và ban công. Miễn phí gửi xe 3 chiếc.",
+      "images": [
+        "assets/images/temp_1756712687850.jpg",
+        "assets/images/temp_1756712687853.jpg",
+        "assets/images/temp_1756712687858.jpg",
+        "assets/images/temp_1756712687861.jpg",
+        "assets/images/temp_1756712687864.jpg",
+        "assets/images/temp_1756712687866.jpg",
+        "assets/images/temp_1756712687870.jpg",
+        "assets/images/temp_1756712687873.jpg",
+        "assets/images/temp_1756712687876.jpg"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Phòng trọ 2Pn 1Pk ban Col thoáng mã P05 đang hoàn thiện new",
+      "price": 9.3,
+      "address": "244/24 huỳnh văn bánh Phú nhuận",
+      "electricPrice": 4000,
+      "waterPrice": 100,
+      "servicePrice": 200,
+      "parkingPrice": 0,
+      "description": "Nước 100k/người, dịch vụ 200k/phòng. Miễn phí gửi 3 xe.",
+      "images": [
+        "assets/images/temp_1756712721458.jpg",
+        "assets/images/temp_1756712721461.jpg",
+        "assets/images/temp_1756712721464.jpg",
+        "assets/images/temp_1756712721468.jpg",
+        "assets/images/temp_1756712721471.jpg",
+        "assets/images/temp_1756712721474.jpg",
+        "assets/images/temp_1756712721481.jpg",
+        "assets/images/temp_1756712721483.jpg",
+        "assets/images/temp_1756712721485.jpg"
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Phòng trọ 1PN Tách Bếp, 2 Ban công (35m2)",
+      "price": 8,
+      "address": "541/27 Huỳnh Văn Bánh, Phường Phú Nhuận",
+      "electricPrice": 4000,
+      "waterPrice": 100,
+      "servicePrice": 200,
+      "parkingPrice": 0,
+      "description": "Tiện nghi, view đẹp, thoáng sáng: Văn phòng hay sinh viên ở 2,3 bạn đều quá hợp lý. Thiết kế độc đáo tách bếp, có 2 ban công thoáng đãng. Không gian rộng rãi yên tĩnh. Hẻm xe tải, khu trung tâm. Cách 15-20 phút đi xe đến Trường Học Viện Hàng Không, Y Học cổ truyền, ĐH Kinh Tế (5p).",
+      "images": [
+        "assets/images/temp_1756712823470.jpg",
+        "assets/images/temp_1756712823471.jpg",
+        "assets/images/temp_1756712823473.jpg",
+        "assets/images/temp_1756712823474.jpg",
+        "assets/images/temp_1756712823476.jpg",
+        "assets/images/temp_1756712823477.jpg",
+        "assets/images/temp_1756712823478.jpg",
+        "assets/images/temp_1756712823479.jpg"
+      ]
+    },
+    {
+      "id": 178,
+      "title": "Mã P304",
+      "price": 4800000,
+      "address": "257 Đinh Bộ Lĩnh, P26, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng trống từ ngày 5/9. Nhận tối đa 2 xe. Giao phòng như hình.",
+      "images": [
+        "assets/images/temp_1756712957287.jpg",
+        "assets/images/temp_1756712957290.jpg",
+        "assets/images/temp_1756712957292.jpg",
+        "assets/images/temp_1756712957297.jpg",
+        "assets/images/temp_1756712957299.jpg",
+        "assets/images/temp_1756712957301.jpg",
+        "assets/images/temp_1756712957303.jpg",
+        "assets/images/temp_1756712957305.jpg"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Phòng trọ Mã P303",
+      "price": 4.3,
+      "address": "257-Đinh Bộ Lĩnh-P26-Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng Mã P303 đang trống sẵn. Nhận 1 xe.",
+      "images": [
+        "assets/images/temp_1756712982341.jpg",
+        "assets/images/temp_1756712982343.jpg",
+        "assets/images/temp_1756712982344.jpg",
+        "assets/images/temp_1756712982345.jpg",
+        "assets/images/temp_1756712982346.jpg",
+        "assets/images/temp_1756712982348.jpg",
+        "assets/images/temp_1756712982348.jpg",
+        "assets/images/temp_1756712982349.jpg"
       ]
     }
   ]
