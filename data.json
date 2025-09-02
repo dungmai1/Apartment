@@ -643,29 +643,6 @@
       ]
     },
     {
-      "id": 54,
-      "title": "Phòng 101 - Dự án 241/4 Phạm Văn Đồng",
-      "price": 5.8,
-      "address": "241/4 Phạm Văn Đồng, phường 1, Gò Vấp",
-      "electricPrice": null,
-      "waterPrice": null,
-      "servicePrice": null,
-      "parkingPrice": null,
-      "description": "Phòng 101: Ban công, full nội thất, lầu 1 thang bộ. Trống từ 01/09.",
-      "images": [
-        "assets/images/temp_1756313343918.jpg",
-        "assets/images/temp_1756313343919.jpg",
-        "assets/images/temp_1756313343920.jpg",
-        "assets/images/temp_1756313343921.jpg",
-        "assets/images/temp_1756313343922.jpg",
-        "assets/images/temp_1756313343923.jpg",
-        "assets/images/temp_1756313343925.jpg",
-        "assets/images/temp_1756313343927.jpg",
-        "assets/images/temp_1756313343929.jpg",
-        "assets/images/temp_1756313343930.jpg"
-      ]
-    },
-    {
       "id": 55,
       "title": "Phòng P102 - Trống sẵn từ 1/9 - 269 Nguyễn Văn Công, P3, GV",
       "price": 4.5,
@@ -1106,27 +1083,6 @@
       ]
     },
     {
-      "id": 84,
-      "title": "Phòng 104 204 ban công",
-      "price": 6.5,
-      "address": "765/71/40 Xô Viết Nghệ Tĩnh Quận Bình Thạnh, Tp HCM",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 100000,
-      "description": "Nội thất đầy đủ: nệm, tủ lạnh, máy lạnh, máy nước nóng, tủ đồ, nóng lạnh mặt trời. Tầng 3, có thang máy. Diện tích: 30m2. Phòng có ban công. Không nuôi thú cưng. Hợp đồng thuê: 12 tháng. Đặt cọc: 1.5 tháng tiền thuê. Tối đa 3 người ở. Miễn phí gửi 2 xe máy, xe thứ 3 phí 100k/tháng. Máy giặt chung (có thể lắp máy giặt riêng). Giờ giấc tự do, ra vào bằng vân tay.",
-      "images": [
-        "assets/images/temp_1756532296766.jpg",
-        "assets/images/temp_1756532296768.jpg",
-        "assets/images/temp_1756532296770.jpg",
-        "assets/images/temp_1756532296772.jpg",
-        "assets/images/temp_1756532296774.jpg",
-        "assets/images/temp_1756532296777.jpg",
-        "assets/images/temp_1756532296780.jpg",
-        "assets/images/temp_1756532296782.jpg"
-      ]
-    },
-    {
       "id": 85,
       "title": "Phòng 309 Nguyễn Kiệm - Trống Sẵn",
       "price": 4,
@@ -1391,24 +1347,6 @@
       ]
     },
     {
-      "id": 100,
-      "title": "Phòng trọ mới giá 4.2tr tại 765/71/27 Xô Việt Nghệ Tĩnh, Bình Thạnh (Trống từ 2/9)",
-      "price": 4.2,
-      "address": "765/71/27 Xô Việt Nghệ Tĩnh, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Phòng trọ mới, có hầm xe và thang máy. Bao gồm máy giặt, máy sấy chung. Nội thất đầy đủ: giường nệm, tủ đồ, bàn trang điểm, máy lạnh, nước nóng. Phòng trống từ 2/9. Miễn phí đậu tối đa 2 xe.",
-      "images": [
-        "assets/images/temp_1756533225939.jpg",
-        "assets/images/temp_1756533225951.jpg",
-        "assets/images/temp_1756533225952.jpg",
-        "assets/images/temp_1756533225953.jpg",
-        "assets/images/temp_1756533225954.jpg"
-      ]
-    },
-    {
       "id": 101,
       "title": "Phòng trọ trệt G01 - 63 Nguyên Hồng, P11, Bình Thạnh",
       "price": 4,
@@ -1581,29 +1519,6 @@
         "assets/images/temp_1756540591849.jpg",
         "assets/images/temp_1756540591852.jpg",
         "assets/images/temp_1756540591856.jpg"
-      ]
-    },
-    {
-      "id": 113,
-      "title": "Phòng trọ 441/62 Điện Biên Phủ, P25 Bình Thạnh (Mã P.05)",
-      "price": 9.3,
-      "address": "441/62 Điện Biên Phủ, P25, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 150000,
-      "description": "Mã căn P.05. Hẻm ô tô, xác bên Hàng Xanh, gần Đại học Hutech. Nội thất đầy đủ: máy lạnh, tủ lạnh, máy giặt, giường nệm, nóng lạnh, bàn ghế. Phù hợp 2-3 người. Không cho phép thú cưng. Lầu 1. Ra vào vân tay.",
-      "images": [
-        "assets/images/temp_1756617734326.jpg",
-        "assets/images/temp_1756617734329.jpg",
-        "assets/images/temp_1756617734332.jpg",
-        "assets/images/temp_1756617734334.jpg",
-        "assets/images/temp_1756617734336.jpg",
-        "assets/images/temp_1756617734339.jpg",
-        "assets/images/temp_1756617734341.jpg",
-        "assets/images/temp_1756617734343.jpg",
-        "assets/images/temp_1756617734345.jpg",
-        "assets/images/temp_1756617734348.jpg"
       ]
     },
     {
@@ -1816,28 +1731,6 @@
         "assets/images/temp_1756619068224.jpg",
         "assets/images/temp_1756619068229.jpg",
         "assets/images/temp_1756619068233.jpg"
-      ]
-    },
-    {
-      "id": 126,
-      "title": "Phòng Studio P102 có ban công thoáng, B22/39 Bạch Đằng, Tân Bình",
-      "price": 6,
-      "address": "B22/39 Bạch Đằng, P2, Tân Bình",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 100000,
-      "description": "Phòng Studio P102 có ban công thoáng. Phòng được trang bị đầy đủ nội thất gồm máy lạnh, tủ lạnh, tủ đồ, tủ bếp và máy giặt. Vị trí thuận tiện gần sân bay, Công viên Gia Định và Đại học Công Nghiệp. Phòng trống từ 30/8.",
-      "images": [
-        "assets/images/temp_1756619231764.jpg",
-        "assets/images/temp_1756619231767.jpg",
-        "assets/images/temp_1756619231773.jpg",
-        "assets/images/temp_1756619231777.jpg",
-        "assets/images/temp_1756619231781.jpg",
-        "assets/images/temp_1756619231785.jpg",
-        "assets/images/temp_1756619231791.jpg",
-        "assets/images/temp_1756619231796.jpg",
-        "assets/images/temp_1756619231800.jpg"
       ]
     },
     {
@@ -3529,6 +3422,162 @@
         "assets/images/temp_1756800070852.jpg",
         "assets/images/temp_1756800070854.jpg",
         "assets/images/temp_1756800070857.jpg"
+      ]
+    },
+    {
+      "id": 214,
+      "title": "",
+      "price": null,
+      "address": "8/32 Hoàng hoa thám, P7, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Nội thất đầy đủ. Có thang máy, hẻm ô tô. Bao gồm máy giặt chung, máy sấy chung và nước nóng năng lượng mặt trời. Dịch vụ cơ bản bao gồm rác, Wifi. Phụ thu 50.000 VND cho người thứ 2 trong tiền dịch vụ. Chỗ đậu xe máy miễn phí cho 2 chiếc.",
+      "images": [
+        "assets/images/temp_1756825586491.jpg",
+        "assets/images/temp_1756825586495.jpg",
+        "assets/images/temp_1756825586498.jpg"
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Phòng ban công, máy giặt riêng tại phòng",
+      "price": 7.2,
+      "address": "489A/23/85 Huỳnh Văn Bánh (đi 1162/123 Trường Sa tới cho nhanh)",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": "Phòng có ban công riêng và máy giặt riêng tại phòng. Phòng ở lầu 2, đi thang bộ. Có thể ở 1-2 người (tối đa 2 xe). Giá thuê chưa bao gồm tivi (thêm 200k/tháng nếu có nhu cầu). Nước tính 100k/1 bạn. Hẻm xe tải lớn. Lưu ý: Không nhận khách sử dụng bếp bằng gas, không nhận xe SH, mô tô, hoặc xe điện.",
+      "images": [
+        "assets/images/temp_1756825672758.jpg",
+        "assets/images/temp_1756825672759.jpg",
+        "assets/images/temp_1756825672761.jpg",
+        "assets/images/temp_1756825672762.jpg",
+        "assets/images/temp_1756825672764.jpg",
+        "assets/images/temp_1756825672766.jpg",
+        "assets/images/temp_1756825672767.jpg",
+        "assets/images/temp_1756825672768.jpg",
+        "assets/images/temp_1756825672769.jpg"
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Phòng 102 - 96 Trần Bá Giao P5 Gò Vấp (phòng mới, full nội thất)",
+      "price": 5.4,
+      "address": "96 Trần Bá Giao P5 Gò Vấp",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": null,
+      "description": "Phòng trống sẵn. Không nuôi pet. Có thang máy, nước nóng. Tối đa 2-3 người.",
+      "images": [
+        "assets/images/temp_1756825743819.jpg",
+        "assets/images/temp_1756825743820.jpg",
+        "assets/images/temp_1756825743823.jpg",
+        "assets/images/temp_1756825743825.jpg",
+        "assets/images/temp_1756825743827.jpg"
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Phòng Full Nội Thất 136 Vạn Kiếp, Bình Thạnh (Trống đầu tháng 10)",
+      "price": null,
+      "address": "136 Vạn Kiếp - Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 0,
+      "description": "Phòng trống đầu tháng 10. Full nội thất mới 100% như hình. Tòa nhà có thang máy, hầm để xe rộng rãi. Giờ giấc tự do, ra vào bằng vân tay.",
+      "images": [
+        "assets/images/temp_1756825780536.jpg",
+        "assets/images/temp_1756825780538.jpg",
+        "assets/images/temp_1756825780539.jpg",
+        "assets/images/temp_1756825780540.jpg",
+        "assets/images/temp_1756825780541.jpg",
+        "assets/images/temp_1756825780542.jpg",
+        "assets/images/temp_1756825780543.jpg",
+        "assets/images/temp_1756825780544.jpg",
+        "assets/images/temp_1756825780545.jpg"
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Phòng trọ Full Nội Thất Nguyễn Xí",
+      "price": null,
+      "address": "215/36A Nguyễn Xí - P13 - Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": "Phòng trống đầu tháng 10. Đầy đủ nội thất như hình. Hẻm xe tải tiện lợi, có hầm xe và thang máy. Đảm bảo PCCC tốt, camera an ninh 24/7. Giờ giấc tự do, không chung chủ.",
+      "images": [
+        "assets/images/temp_1756825858253.jpg",
+        "assets/images/temp_1756825858256.jpg",
+        "assets/images/temp_1756825858259.jpg",
+        "assets/images/temp_1756825858262.jpg",
+        "assets/images/temp_1756825858266.jpg",
+        "assets/images/temp_1756825858269.jpg",
+        "assets/images/temp_1756825858274.jpg",
+        "assets/images/temp_1756825858276.jpg",
+        "assets/images/temp_1756825858278.jpg"
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Phòng 302 - Bancon, cửa sổ, thang bộ",
+      "price": 5.5,
+      "address": "98/21 Chiến Thắng p9 PN",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": null,
+      "description": "Phòng 302 có bancon và cửa sổ, đi lại bằng thang bộ.",
+      "images": [
+        "assets/images/temp_1756825971686.jpg",
+        "assets/images/temp_1756825971687.jpg",
+        "assets/images/temp_1756825971688.jpg",
+        "assets/images/temp_1756825971689.jpg",
+        "assets/images/temp_1756825971690.jpg"
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Phòng trọ Duplex gác cao",
+      "price": 5.5,
+      "address": "47/2/43 Bùi Đình Túy, P.14, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng trọ gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2. Nội thất bao gồm: Cửa sổ thông tầng, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo.",
+      "images": [
+        "assets/images/temp_1756826152653.jpg",
+        "assets/images/temp_1756826152653.jpg",
+        "assets/images/temp_1756826152655.jpg",
+        "assets/images/temp_1756826152656.jpg",
+        "assets/images/temp_1756826152656.jpg"
+      ]
+    },
+    {
+      "id": 221,
+      "title": "Phòng Duplex 47/2/43 Bùi Đình Túy, P.14, Bình Thạnh",
+      "price": 5.7,
+      "address": "47/2/43 Bùi Đình Túy, P.14, Bình Thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Mã phòng: 203. Vị trí thuận tiện: gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2. Nội thất bao gồm: Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo.",
+      "images": [
+        "assets/images/temp_1756826175051.jpg",
+        "assets/images/temp_1756826175054.jpg",
+        "assets/images/temp_1756826175056.jpg",
+        "assets/images/temp_1756826175058.jpg",
+        "assets/images/temp_1756826175060.jpg",
+        "assets/images/temp_1756826175064.jpg",
+        "assets/images/temp_1756826175067.jpg"
       ]
     }
   ]
