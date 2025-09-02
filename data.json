@@ -267,25 +267,6 @@
       ]
     },
     {
-      "id": 19,
-      "title": "Phòng trọ đầy đủ nội thất 35m2 tại Xô Viết Nghệ Tĩnh, Bình Thạnh",
-      "price": 6.2,
-      "address": "549/4/11 Xô Viết Nghệ Tĩnh, P26, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 0,
-      "description": "Phòng trọ rộng rãi 35m2, có cửa sổ thoáng mát, phù hợp cho 2-3 người ở. Nội thất đầy đủ bao gồm: tủ lạnh, lò vi sóng, nệm, giường, tủ quần áo, máy lạnh, bếp. Vị trí đắc địa ngay nhà sách Nguyễn Văn Cừ, đầu đường Ung Văn Khiêm. Hợp đồng thuê 12 tháng, cọc 1.5 tháng.",
-      "images": [
-        "assets/images/temp_1756307918604.jpg",
-        "assets/images/temp_1756307918606.jpg",
-        "assets/images/temp_1756307918608.jpg",
-        "assets/images/temp_1756307918609.jpg",
-        "assets/images/temp_1756307918611.jpg",
-        "assets/images/temp_1756307918613.jpg"
-      ]
-    },
-    {
       "id": 20,
       "title": "Phòng trọ 24/3 Trần Bình Trọng P5 Bình Thạnh",
       "price": 6.5,
@@ -3085,6 +3066,148 @@
         "assets/images/temp_1756713575173.jpg",
         "assets/images/temp_1756713575176.jpg",
         "assets/images/temp_1756713575179.jpg"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "Phòng trọ Full nội thất, WC riêng, cửa sổ tại 23A Nguyễn Hữu Cảnh, Bình Thạnh",
+      "price": 5.5,
+      "address": "23A Nguyễn Hữu Cảnh, P22, Bình Thạnh (P302-L3)",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": null,
+      "description": "Phòng full nội thất, có cửa sổ, WC riêng, bếp. Giờ giấc tự do, không chung chủ. Bao gồm Wifi và tiền rác.",
+      "images": [
+        "assets/images/temp_1756776610359.jpg",
+        "assets/images/temp_1756776610363.jpg",
+        "assets/images/temp_1756776610367.jpg",
+        "assets/images/temp_1756776610368.jpg",
+        "assets/images/temp_1756776610371.jpg",
+        "assets/images/temp_1756776610372.jpg",
+        "assets/images/temp_1756776610374.jpg"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Nhà nguyên căn 4PN 2WC tại Vạn Kiếp, Bình Thạnh",
+      "price": 17,
+      "address": "60B/25/ Vạn Kiếp, p1, Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Diện tích 4.2m x 13.5m, thiết kế 1 trệt 1 lầu, gồm 4 phòng ngủ và 2 nhà vệ sinh.",
+      "images": [
+        "assets/images/temp_1756776927516.jpg",
+        "assets/images/temp_1756776927518.jpg",
+        "assets/images/temp_1756776927521.jpg",
+        "assets/images/temp_1756776927522.jpg",
+        "assets/images/temp_1756776927522.jpg"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "Nhà nguyên căn cho thuê tại Lạc Long Quân, Tân Bình",
+      "price": 14,
+      "address": "730/49/14 Lạc Long Quân, P.9, Q.Tân Bình",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Nhà nguyên căn diện tích 4x10m, cấu trúc trệt 2 lầu sân thượng, gồm 4 phòng ngủ và 4 toilet. Hẻm xe hơi, hướng Tây.",
+      "images": [
+        "assets/images/temp_1756776951712.jpg",
+        "assets/images/temp_1756776951712.jpg",
+        "assets/images/temp_1756776951713.jpg",
+        "assets/images/temp_1756776951714.jpg",
+        "assets/images/temp_1756776951715.jpg"
+      ]
+    },
+    {
+      "id": 186,
+      "title": null,
+      "price": 8,
+      "address": "334/96/8 Chu Văn An, p12, Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Nhà nguyên căn với diện tích 4x9m, cấu trúc 1 trệt 1 lầu. Bao gồm 2 phòng ngủ và 1 nhà vệ sinh.",
+      "images": [
+        "assets/images/temp_1756776990227.jpg",
+        "assets/images/temp_1756776990228.jpg",
+        "assets/images/temp_1756776990229.jpg",
+        "assets/images/temp_1756776990231.jpg",
+        "assets/images/temp_1756776990232.jpg"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Nhà nguyên căn 2PN, 2WC, hẻm xe hơi",
+      "price": 12,
+      "address": "237/9 Phan Văn Trị, P.11, Q.Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Diện tích 4x14m, kết cấu 1 trệt 1 lầu. Gồm 2 phòng ngủ, 2 toilet. Hẻm xe hơi tiện di chuyển. Hướng Đông Bắc.",
+      "images": [
+        "assets/images/temp_1756777030573.jpg"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Nhà nguyên căn 3PN 2WC trệt 1 lầu hẻm xe hơi, Bình Thạnh",
+      "price": 12,
+      "address": "33/18 Nguyễn Trung Trực, Phường 5, Quận Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Diện tích 4.15m x 16m. Kết cấu trệt 1 lầu, gồm 3 phòng ngủ, 2 WC. Nằm trong hẻm xe hơi cụt. Giá 12tr, hhtt (chính chủ/hợp đồng thuê). Khách hiện tại sẽ trả nhà vào cuối tháng 9. Có thể xem nhà sau lễ.",
+      "images": [
+        "assets/images/temp_1756777046589.jpg",
+        "assets/images/temp_1756777046590.jpg",
+        "assets/images/temp_1756777046590.jpg",
+        "assets/images/temp_1756777046591.jpg",
+        "assets/images/temp_1756777046592.jpg",
+        "assets/images/temp_1756777046592.jpg"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "Nhà nguyên căn",
+      "price": 11,
+      "address": "449/6/17 Lê Quang Định, Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Nhà nguyên căn. Diện tích: 2.8m x 15m. Kết cấu: 1 trệt, 2 lầu suốt. Gồm 2 phòng ngủ và 2 WC. Giá thuê có thể thương lượng.",
+      "images": [
+        "assets/images/temp_1756777082716.jpg",
+        "assets/images/temp_1756777082716.jpg",
+        "assets/images/temp_1756777082718.jpg",
+        "assets/images/temp_1756777082719.jpg",
+        "assets/images/temp_1756777082720.jpg"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Phòng trọ có cửa sổ tại 269/5 Thống Nhất, P11, Gò Vấp",
+      "price": 3.5,
+      "address": "269/5 thống nhất, phường 11, gò vấp",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 100000,
+      "description": "phòng nội thất như hình",
+      "images": [
+        "assets/images/temp_1756777468549.jpg",
+        "assets/images/temp_1756777468551.jpg",
+        "assets/images/temp_1756777468553.jpg",
+        "assets/images/temp_1756777468555.jpg"
       ]
     }
   ]
