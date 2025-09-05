@@ -1860,25 +1860,6 @@
       ]
     },
     {
-      "id": "140",
-      "title": "Phòng 108 trống sẵn, full nội thất",
-      "price": 5.6,
-      "address": "685/30/43 Xô Viết Nghệ Tĩnh P26 Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": null,
-      "description": "Phòng 108 trống sẵn (hoặc trống từ 15/9), thời gian nhận phòng linh hoạt. Phòng full nội thất (không bao gồm nệm).",
-      "images": [
-        "assets/images/temp_1756706272125.jpg",
-        "assets/images/temp_1756706272133.jpg",
-        "assets/images/temp_1756706272140.jpg",
-        "assets/images/temp_1756706272145.jpg",
-        "assets/images/temp_1756706272150.jpg",
-        "assets/images/temp_1756706272153.jpg"
-      ]
-    },
-    {
       "id": 140,
       "title": "P01 1PN tách bếp cửa sổ ban công full nội thất",
       "price": 7.8,
@@ -4482,6 +4463,27 @@
         "assets/images/temp_1756998533882.jpg",
         "assets/images/temp_1756998533884.jpg",
         "assets/images/temp_1756998533885.jpg"
+      ]
+    },
+    {
+      "id": 281,
+      "title": "STUDIO FULL NỘI THẤT NGAY NGÃ TƯ PHÚ NHUẬN",
+      "price": 5.2,
+      "address": "148/2M Trần Khắc Chân - Quận Phú Nhuận",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": null,
+      "description": "Trang bị full nội thất cao cấp như hình. Phòng rộng rãi, thoáng mát, sạch sẽ. Khu dân cư yên tĩnh, ra vào vân tay, tự do. Thuận tiện đi học và làm ở các quận trung tâm.",
+      "images": [
+        "assets/images/temp_1757036103435.jpg",
+        "assets/images/temp_1757036103440.jpg",
+        "assets/images/temp_1757036103444.jpg",
+        "assets/images/temp_1757036103448.jpg",
+        "assets/images/temp_1757036103451.jpg",
+        "assets/images/temp_1757036103454.jpg",
+        "assets/images/temp_1757036103456.jpg",
+        "assets/images/temp_1757036103458.jpg"
       ]
     }
   ]
