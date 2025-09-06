@@ -4206,25 +4206,6 @@
       ]
     },
     {
-      "id": 284,
-      "title": "Phòng trọ full nội thất Xô Viết Nghệ Tĩnh Bình Thạnh (Mã 103)",
-      "price": 5.2,
-      "address": "685/36/17 Xô viết nghệ tĩnh, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Phòng full nội thất bao gồm máy lạnh, tủ lạnh, tủ quần áo, giường nệm, kệ bếp, bếp từ, bàn trang điểm. Có khu máy giặt sấy chung. Phòng trống sẵn.",
-      "images": [
-        "assets/images/temp_1757130771522.jpg",
-        "assets/images/temp_1757130771524.jpg",
-        "assets/images/temp_1757130771527.jpg",
-        "assets/images/temp_1757130771528.jpg",
-        "assets/images/temp_1757130771531.jpg",
-        "assets/images/temp_1757130771534.jpg"
-      ]
-    },
-    {
       "id": 285,
       "title": "KTX Đặng Thuỳ Trâm, Bình Thạnh - gần ĐH Văn Lang",
       "price": 2000,
@@ -4376,26 +4357,6 @@
       ]
     },
     {
-      "id": 293,
-      "title": "P.201 - 5tr5 - TRỐNG SẴN",
-      "price": 5.5,
-      "address": "11/7 Hồ Xuân Hương, P14, Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 0,
-      "description": "Không nuôi pet. Nội thất như hình. Dịch vụ bao gồm rác, Wifi, máy giặt.",
-      "images": [
-        "assets/images/temp_1757132813671.jpg",
-        "assets/images/temp_1757132813673.jpg",
-        "assets/images/temp_1757132813675.jpg",
-        "assets/images/temp_1757132813677.jpg",
-        "assets/images/temp_1757132813679.jpg",
-        "assets/images/temp_1757132813680.jpg",
-        "assets/images/temp_1757132813682.jpg"
-      ]
-    },
-    {
       "id": 294,
       "title": "1 PN riêng TÁCH BIỆT_45m2. Ban công siêu rộng ơi là rộng",
       "price": 7.8,
@@ -4457,24 +4418,6 @@
         "assets/images/temp_1757133084142.jpg",
         "assets/images/temp_1757133084144.jpg",
         "assets/images/temp_1757133084147.jpg"
-      ]
-    },
-    {
-      "id": 297,
-      "title": "G1A - Phòng trọ có máy lạnh, giường tầng, nệm, kệ tủ bếp",
-      "price": 6.2,
-      "address": "736/180/15 Lê Đức Thọ, P15 Gò Vấp",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 100000,
-      "description": "Nhà thang máy, máy giặt chung (20k/lần), hẻm xe hơi vào tận nhà. Wifi miễn phí. Phòng G1A trang bị máy lạnh, giường tầng, nệm, kệ tủ bếp.",
-      "images": [
-        "assets/images/temp_1757133275574.jpg",
-        "assets/images/temp_1757133275576.jpg",
-        "assets/images/temp_1757133275577.jpg",
-        "assets/images/temp_1757133275579.jpg",
-        "assets/images/temp_1757133275581.jpg"
       ]
     },
     {
