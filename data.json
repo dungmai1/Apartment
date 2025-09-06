@@ -331,26 +331,6 @@
       ]
     },
     {
-      "id": 28,
-      "title": "Phòng 1PN tách bếp có cửa sổ",
-      "price": 4.5,
-      "address": "160/1/27 Phan Huy Ích, P.12, Gò vấp",
-      "electricPrice": 3500,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": 0,
-      "description": "Trống sẵn P001 trệt và P302 lầu 3. Phòng 1PN tách bếp có cửa sổ, full nội thất bao gồm: máy lạnh, tủ áo quần, kệ bếp - bồn rửa chén, wifi. Có máy giặt chung. Giá thuê đã giảm từ 4,7tr/tháng xuống còn 4,5tr/tháng, áp dụng đến hết hợp đồng. Tiện ích tòa nhà: cửa vân tay, camera 24/7.",
-      "images": [
-        "assets/images/temp_1756308765515.jpg",
-        "assets/images/temp_1756308765517.jpg",
-        "assets/images/temp_1756308765519.jpg",
-        "assets/images/temp_1756308765522.jpg",
-        "assets/images/temp_1756308765524.jpg",
-        "assets/images/temp_1756308765526.jpg",
-        "assets/images/temp_1756308765529.jpg"
-      ]
-    },
-    {
       "id": 29,
       "title": "Phòng P101 lầu 1 full nội thất 2PN 1PK siêu rộng 53 Xuân Hồng",
       "price": 7.2,
@@ -3703,43 +3683,6 @@
       ]
     },
     {
-      "id": 254,
-      "title": "CĂN HỘ CHO THUÊ - FULL NỘI THẤT, CHỈ VIỆC XÁCH VALI VÀO Ở",
-      "price": 5.5,
-      "address": "160/58/1 Phan Huy Ích, P.12, Gò Vấp",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 100000,
-      "description": "Căn hộ 1 phòng ngủ riêng biệt, có bếp tách biệt, cửa sổ. Vị trí trung tâm – Gần trường học, chợ, tiện di chuyển. Full nội thất hiện đại bao gồm máy lạnh, tủ lạnh, nệm êm, tủ quần áo, kệ bếp gọn gàng, tủ bếp, bàn ghế ăn, máy nước nóng, giường. Hỗ trợ lắp máy giặt theo nhu cầu. Toà nhà có thang máy, vệ sinh sạch sẽ, an ninh tốt. Pet-friendly – Thoải mái nuôi thú cưng. Hợp đồng 9 - 12 tháng. Chi phí dịch vụ là 200.000đ/phòng (người thứ 3 thêm 50.000đ). Lưu ý: Không sử dụng xe điện & bếp gas để đảm bảo an toàn.",
-      "images": [
-        "assets/images/temp_1756995405150.jpg",
-        "assets/images/temp_1756995405154.jpg",
-        "assets/images/temp_1756995405157.jpg",
-        "assets/images/temp_1756995405159.jpg",
-        "assets/images/temp_1756995405161.jpg",
-        "assets/images/temp_1756995405162.jpg"
-      ]
-    },
-    {
-      "id": 255,
-      "title": "CĂN HỘ CHO THUÊ - FULL NỘI THẤT, CHỈ VIỆC XÁCH VALI VÀO Ở",
-      "price": 4.5,
-      "address": "160/58/1 Phan Huy Ích, P.12, Gò Vấp",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 100000,
-      "description": "Vị trí trung tâm – Gần trường học, chợ, tiện di chuyển. Phòng P104 là loại 1 phòng ngủ riêng biệt, có cửa sổ và bếp tách biệt, phù hợp nhận tối đa 4 người và 4 xe. Phòng được trang bị đầy đủ nội thất hiện đại: máy lạnh, tủ lạnh, giường nệm, máy nóng lạnh, tủ quần áo, kệ bếp, tủ bếp, bàn ghế ăn. Có hỗ trợ lắp máy giặt theo nhu cầu. Tòa nhà có thang máy, vệ sinh sạch sẽ, an ninh tốt. Đây là căn hộ pet-friendly, thoải mái nuôi thú cưng. Hợp đồng thuê từ 9 - 12 tháng. Phí dịch vụ 200.000đ/phòng (người thứ 3 phụ thu 50.000đ). Lưu ý không sử dụng xe điện và bếp gas để đảm bảo an toàn.",
-      "images": [
-        "assets/images/temp_1756995531828.jpg",
-        "assets/images/temp_1756995531829.jpg",
-        "assets/images/temp_1756995531832.jpg",
-        "assets/images/temp_1756995531832.jpg",
-        "assets/images/temp_1756995531834.jpg"
-      ]
-    },
-    {
       "id": 256,
       "title": "Phòng trọ tại 49/1/2 Bùi Quang Là, Gò Vấp",
       "price": 3.5,
@@ -4562,6 +4505,62 @@
         "assets/images/temp_1757133825115.jpg",
         "assets/images/temp_1757133825116.jpg",
         "assets/images/temp_1757133825117.jpg"
+      ]
+    },
+    {
+      "id": 305,
+      "title": "Phòng trọ 160/1/27 Phan Huy Ích, P.12, Q.GV - Trống P001 trệt, P302 lầu 3 full nội thất",
+      "price": 4.5,
+      "address": "160/1/27 Phan Huy Ích, P.12, Q.GV",
+      "electricPrice": 3500,
+      "waterPrice": 100000,
+      "servicePrice": 150000,
+      "parkingPrice": 0,
+      "description": "Hiện đang trống phòng P001 (tầng trệt) và P302 (tầng 3). Các phòng là loại 1 phòng ngủ tách bếp, có cửa sổ, full nội thất bao gồm máy lạnh, tủ áo quần, kệ bếp - bồn rửa chén, wifi. Có máy giặt chung. An ninh đảm bảo với cửa vân tay và camera 24/7. Miễn phí 2 xe.",
+      "images": [
+        "assets/images/temp_1757141691287.jpg",
+        "assets/images/temp_1757141691290.jpg",
+        "assets/images/temp_1757141691291.jpg",
+        "assets/images/temp_1757141691294.jpg",
+        "assets/images/temp_1757141691296.jpg",
+        "assets/images/temp_1757141691298.jpg",
+        "assets/images/temp_1757141691298.jpg"
+      ]
+    },
+    {
+      "id": 306,
+      "title": "Phòng L04 - 1PN/Duplex, Full nội thất, Pet-friendly, Gò Vấp",
+      "price": 5.5,
+      "address": "160/58/1 Phan Huy Ích, P.12, Gò Vấp",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng trọ tại 160/58/1 Phan Huy Ích, P.12, Gò Vấp. Vị trí trung tâm, gần trường học, chợ, tiện di chuyển. Hiện có 2 loại phòng: 1PN riêng biệt có bếp tách biệt và Duplex có cửa sổ thoáng mát. Phòng được trang bị full nội thất hiện đại: máy lạnh, tủ lạnh, nệm êm, tủ quần áo, kệ bếp gọn gàng. Hỗ trợ lắp máy giặt, máy nước nóng theo nhu cầu. Cho phép nuôi thú cưng (Pet-friendly). Tòa nhà có thang máy, luôn được vệ sinh sạch sẽ và đảm bảo an ninh. Lưu ý không sử dụng xe điện và bếp gas để đảm bảo an toàn.",
+      "images": [
+        "assets/images/temp_1757141726102.jpg",
+        "assets/images/temp_1757141726103.jpg",
+        "assets/images/temp_1757141726105.jpg",
+        "assets/images/temp_1757141726106.jpg",
+        "assets/images/temp_1757141726107.jpg",
+        "assets/images/temp_1757141726108.jpg"
+      ]
+    },
+    {
+      "id": 307,
+      "title": "Phòng trọ Full nội thất, có thang máy, Pet-friendly tại Gò Vấp",
+      "price": 4.5,
+      "address": "160/58/1 Phan Huy Ích, P.12, Gò Vấp",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng trọ hiện đại tại 160/58/1 Phan Huy Ích, P.12, Gò Vấp. Vị trí trung tâm, gần trường học, chợ, tiện di chuyển.\n\nCó 2 loại phòng siêu xịn:\n1. Phòng 1PN riêng biệt – có bếp tách biệt.\n2. Phòng Duplex – có cửa sổ thoáng mát.\n\nPhòng full nội thất hiện đại bao gồm: Máy lạnh, tủ lạnh, nệm êm, tủ quần áo, kệ bếp gọn gàng. Hỗ trợ lắp máy giặt, máy nước nóng theo nhu cầu.\n\nĐặc biệt, tòa nhà Pet-friendly, thoải mái nuôi thú cưng. Tòa nhà có thang máy, vệ sinh sạch sẽ, an ninh đảm bảo.\n\nLưu ý: Không sử dụng xe điện & bếp gas để đảm bảo an toàn.\n\nHiện có phòng PL01 giá 4.500.000đ (trống từ 1/10).\nChi phí dịch vụ cho người thứ 3 là +50.000đ.",
+      "images": [
+        "assets/images/temp_1757141748059.jpg",
+        "assets/images/temp_1757141748061.jpg",
+        "assets/images/temp_1757141748062.jpg",
+        "assets/images/temp_1757141748064.jpg"
       ]
     }
   ]
