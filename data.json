@@ -4590,7 +4590,7 @@
     {
       "id": "304",
       "title": null,
-      "price": null,
+      "price": 4.2,
       "address": "88/2a Đường số 27, Gò vấp",
       "electricPrice": 3800,
       "waterPrice": 100000,
@@ -4607,7 +4607,7 @@
     {
       "id": 304,
       "title": null,
-      "price": null,
+      "price": 4.8,
       "address": "496/62/3 Dương quảng hàm, gò vấp",
       "electricPrice": 3800,
       "waterPrice": 100000,
