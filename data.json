@@ -791,25 +791,6 @@
       ]
     },
     {
-      "id": 71,
-      "title": "17/9 trống 101",
-      "price": 3.6,
-      "address": "277/51 Xô Viết Nghệ Tĩnh phường Gia Định",
-      "electricPrice": 3.8,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": null,
-      "description": "Tất cả đều có gác, kệ bếp bồn rửa, wc riêng. Nước tính 100k/1 người, dịch vụ 200k/phòng 2 người.",
-      "images": [
-        "assets/images/temp_1756352379179.jpg",
-        "assets/images/temp_1756352379180.jpg",
-        "assets/images/temp_1756352379180.jpg",
-        "assets/images/temp_1756352379181.jpg",
-        "assets/images/temp_1756352379182.jpg",
-        "assets/images/temp_1756352379182.jpg"
-      ]
-    },
-    {
       "id": 72,
       "title": "ĐẦU THÁNG 9 TRỐNG 106 STUDIO CỬA SỔ LỚN GIÁ 5TR5 FULL NỘI THẤT",
       "price": 5.5,
@@ -1716,25 +1697,6 @@
       ]
     },
     {
-      "id": 143,
-      "title": "DUPLEX + Cửa sổ lớn 20m2 Full NT cửa sổ, CÓ TỦ BẾP",
-      "price": 5.5,
-      "address": "23/24/10 NƠ TRANG LONG",
-      "electricPrice": 4000,
-      "waterPrice": 100,
-      "servicePrice": 150,
-      "parkingPrice": null,
-      "description": "Phòng DUPLEX với cửa sổ lớn, diện tích 20m2. Full nội thất, có tủ bếp. Nước tính 100k/người. Miễn phí gửi 2 xe máy, xe thứ 3 phí 150k/xe. Miễn phí sử dụng máy giặt, wifi, rác và vệ sinh chung.",
-      "images": [
-        "assets/images/temp_1756706616337.jpg",
-        "assets/images/temp_1756706616339.jpg",
-        "assets/images/temp_1756706616341.jpg",
-        "assets/images/temp_1756706616343.jpg",
-        "assets/images/temp_1756706616345.jpg",
-        "assets/images/temp_1756706616348.jpg"
-      ]
-    },
-    {
       "id": 144,
       "title": "Phòng trọ Mã 4.2",
       "price": 5.2,
@@ -2185,28 +2147,6 @@
         "assets/images/temp_1756711878529.jpg",
         "assets/images/temp_1756711878533.jpg",
         "assets/images/temp_1756711878536.jpg"
-      ]
-    },
-    {
-      "id": 169,
-      "title": "Phòng trọ full nội thất 41/96/5 Đặng Thuỳ Trâm",
-      "price": 6.5,
-      "address": "41/96/5 Đặng Thuỳ Trâm",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": 100000,
-      "description": "Phòng full nội thất, phù hợp cho 4 người và 4 xe.",
-      "images": [
-        "assets/images/temp_1756711906073.jpg",
-        "assets/images/temp_1756711906075.jpg",
-        "assets/images/temp_1756711906078.jpg",
-        "assets/images/temp_1756711906081.jpg",
-        "assets/images/temp_1756711906084.jpg",
-        "assets/images/temp_1756711906088.jpg",
-        "assets/images/temp_1756711906091.jpg",
-        "assets/images/temp_1756711906095.jpg",
-        "assets/images/temp_1756711906098.jpg"
       ]
     },
     {
@@ -2778,28 +2718,6 @@
       ]
     },
     {
-      "id": 209,
-      "title": "Phòng Mã 201 - Bancol lớn - 2 cửa sổ - Trống sẵn",
-      "price": 11.5,
-      "address": "104 Cù Lao, phường 2 Phú Nhuận",
-      "electricPrice": 4000,
-      "waterPrice": 120000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Phòng có bancol lớn và 2 cửa sổ. Full nội thất, máy giặt riêng. Vị trí ở lầu 2, đi thang bộ. Đặc biệt, chỉ nhận mèo.",
-      "images": [
-        "assets/images/temp_1756799846661.jpg",
-        "assets/images/temp_1756799846662.jpg",
-        "assets/images/temp_1756799846663.jpg",
-        "assets/images/temp_1756799846664.jpg",
-        "assets/images/temp_1756799846666.jpg",
-        "assets/images/temp_1756799846666.jpg",
-        "assets/images/temp_1756799846667.jpg",
-        "assets/images/temp_1756799846668.jpg",
-        "assets/images/temp_1756799846670.jpg"
-      ]
-    },
-    {
       "id": 210,
       "title": "P07 có ban công Full NT",
       "price": 7.5,
@@ -3240,23 +3158,6 @@
       ]
     },
     {
-      "id": 240,
-      "title": "Phòng trọ P104 - Xô Viết Nghệ Tĩnh, Bình Thạnh (nội thất cơ bản)",
-      "price": 4.9,
-      "address": "685/30/43 Xô Viết Nghệ Tĩnh P26 Bình Thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": null,
-      "description": "Phòng trọ P104 trống từ 17/9 với nội thất cơ bản.",
-      "images": [
-        "assets/images/temp_1756900256283.jpg",
-        "assets/images/temp_1756900256284.jpg",
-        "assets/images/temp_1756900256285.jpg",
-        "assets/images/temp_1756900256286.jpg"
-      ]
-    },
-    {
       "id": 241,
       "title": "Phòng trọ tại 621 Nguyễn Kiệm",
       "price": 7.5,
@@ -3406,7 +3307,7 @@
     {
       "id": 249,
       "title": "Phòng 101 - Tách bếp, ban công full nội thất",
-      "price": 6.2,
+      "price": 5.9,
       "address": "367 Nguyễn Xí, p13, Bình Thạnh",
       "electricPrice": 4000,
       "waterPrice": 100000,
@@ -3511,23 +3412,6 @@
         "assets/images/temp_1756995601908.jpg",
         "assets/images/temp_1756995601909.jpg",
         "assets/images/temp_1756995601910.jpg"
-      ]
-    },
-    {
-      "id": 257,
-      "title": "Bình Thạnh - 700 Xô Viết Nghệ Tĩnh (đi bộ sang Hutech)",
-      "price": 5.5,
-      "address": "Bình Thạnh - 700 Xô Viết Nghệ Tĩnh",
-      "electricPrice": 4000,
-      "waterPrice": 120000,
-      "servicePrice": 200000,
-      "parkingPrice": 0,
-      "description": "Phòng 101 - Duplex bancol, máy lạnh, kệ bếp, máy giặt chung",
-      "images": [
-        "assets/images/temp_1756995796973.jpg",
-        "assets/images/temp_1756995796974.jpg",
-        "assets/images/temp_1756995796975.jpg",
-        "assets/images/temp_1756995796976.jpg"
       ]
     },
     {
@@ -4232,7 +4116,7 @@
     },
     {
       "id": "304",
-      "title": null,
+      "title": "Phòng trọ mới xây Gò Vấp",
       "price": 4.2,
       "address": "88/2a Đường số 27, Gò vấp",
       "electricPrice": 3800,
@@ -4548,23 +4432,6 @@
       ]
     },
     {
-      "id": 318,
-      "title": "Phòng trọ P303",
-      "price": 4.5,
-      "address": "532B XVNT P25 Bình thạnh",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 150000,
-      "parkingPrice": null,
-      "description": "",
-      "images": [
-        "assets/images/temp_1757173925952.jpg",
-        "assets/images/temp_1757173925954.jpg",
-        "assets/images/temp_1757173925957.jpg",
-        "assets/images/temp_1757173925960.jpg"
-      ]
-    },
-    {
       "id": 319,
       "title": "Phòng Studio Full Nội Thất, Giếng Trời",
       "price": 3.5,
@@ -4582,20 +4449,134 @@
       ]
     },
     {
-      "id": 320,
-      "title": "Phòng trọ trống - Mã 03, 43/7 Nguyễn Khuyến, Bình Thạnh",
-      "price": 4.7,
-      "address": "43/7 Nguyễn Khuyến Bình Thạnh",
+      "id": 321,
+      "title": "",
+      "price": 6,
+      "address": "41/96/5 Đặng thùy trâm, bình thạnh.",
       "electricPrice": 4000,
-      "waterPrice": 100,
-      "servicePrice": 200,
-      "parkingPrice": null,
-      "description": "Trống lại 1 phòng duy nhất vào ở ngay. Phòng Mã 03 lầu 1, full nội thất, có cửa sổ trong. Lưu ý: nước tính theo đầu người 100k/người, dịch vụ 200k/phòng.",
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "",
       "images": [
-        "assets/images/temp_1757218806990.jpg",
-        "assets/images/temp_1757218806991.jpg",
-        "assets/images/temp_1757218806991.jpg",
-        "assets/images/temp_1757218806991.jpg"
+        "assets/images/temp_1757232806467.jpg",
+        "assets/images/temp_1757232806475.jpg",
+        "assets/images/temp_1757232806480.jpg",
+        "assets/images/temp_1757232806483.jpg",
+        "assets/images/temp_1757232806488.jpg",
+        "assets/images/temp_1757232806491.jpg",
+        "assets/images/temp_1757232806495.jpg",
+        "assets/images/temp_1757232806498.jpg",
+        "assets/images/temp_1757232806501.jpg"
+      ]
+    },
+    {
+      "id": 322,
+      "title": "Phòng 06,08",
+      "price": 5.1,
+      "address": "245/2/34 Bình lợi, bình thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Nước: 100k/ người",
+      "images": [
+        "assets/images/temp_1757232851879.jpg",
+        "assets/images/temp_1757232851883.jpg",
+        "assets/images/temp_1757232851887.jpg",
+        "assets/images/temp_1757232851891.jpg",
+        "assets/images/temp_1757232851894.jpg"
+      ]
+    },
+    {
+      "id": 323,
+      "title": "Phòng trọ 95/2/10 BL",
+      "price": 6.3,
+      "address": "95/2/10 BL",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": null,
+      "images": [
+        "assets/images/temp_1757232892412.jpg",
+        "assets/images/temp_1757232892416.jpg",
+        "assets/images/temp_1757232892424.jpg",
+        "assets/images/temp_1757232892426.jpg",
+        "assets/images/temp_1757232892430.jpg"
+      ]
+    },
+    {
+      "id": 324,
+      "title": "Phòng trọ Full Nội Thất, Máy Giặt Riêng - 1472/14 Lê Đức Thọ, Gò Vấp",
+      "price": 5,
+      "address": "1472/14 LÊ ĐỨC THỌ, P13, GÒ VẤP",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng có cửa sổ trời, được trang bị đầy đủ nội thất (Full NT) và máy giặt riêng. Phòng L03 trống từ ngày 10/9.",
+      "images": [
+        "assets/images/temp_1757232936917.jpg",
+        "assets/images/temp_1757232936918.jpg",
+        "assets/images/temp_1757232936921.jpg",
+        "assets/images/temp_1757232936922.jpg",
+        "assets/images/temp_1757232936925.jpg",
+        "assets/images/temp_1757232936927.jpg"
+      ]
+    },
+    {
+      "id": 325,
+      "title": "Phòng trọ full nội thất tại Bình Thạnh",
+      "price": 6.7,
+      "address": "204-206 Đặng thùy trâm, bình thạnh",
+      "electricPrice": 4000,
+      "waterPrice": 100000,
+      "servicePrice": 200000,
+      "parkingPrice": 100000,
+      "description": "Phòng full nội thất",
+      "images": [
+        "assets/images/temp_1757233127715.jpg",
+        "assets/images/temp_1757233127716.jpg",
+        "assets/images/temp_1757233127718.jpg"
+      ]
+    },
+    {
+      "id": 326,
+      "title": "Phòng trọ 170 Đường số 1 Gò Vấp",
+      "price": 4.5,
+      "address": "170 Đường số 1 Gò Vấp",
+      "electricPrice": 3800,
+      "waterPrice": 100000,
+      "servicePrice": 100000,
+      "parkingPrice": 100000,
+      "description": "Full đồ như hình, phơi đồ riêng từng phòng. Phí dịch vụ (combo): 100k/người. Tiền nước: 100k/người. Tiền gửi xe máy: 100k/chiếc. Phí rác: 25k/phòng.",
+      "images": [
+        "assets/images/temp_1757233229234.jpg",
+        "assets/images/temp_1757233229240.jpg",
+        "assets/images/temp_1757233229247.jpg",
+        "assets/images/temp_1757233229250.jpg",
+        "assets/images/temp_1757233229252.jpg",
+        "assets/images/temp_1757233229254.jpg",
+        "assets/images/temp_1757233229257.jpg",
+        "assets/images/temp_1757233229261.jpg"
+      ]
+    },
+    {
+      "id": 327,
+      "title": "Studio 45m2 có sân sau, tầng trệt",
+      "price": 7.5,
+      "address": "116/18 Bình Lợi, Bình Thạnh",
+      "electricPrice": null,
+      "waterPrice": null,
+      "servicePrice": null,
+      "parkingPrice": null,
+      "description": "Phòng studio đang trống, diện tích 45m2, có sân sau riêng. Nằm ở tầng trệt, phù hợp cho 5-6 người ở.",
+      "images": [
+        "assets/images/temp_1757233459642.jpg",
+        "assets/images/temp_1757233459645.jpg",
+        "assets/images/temp_1757233459647.jpg",
+        "assets/images/temp_1757233459650.jpg"
       ]
     }
   ]
