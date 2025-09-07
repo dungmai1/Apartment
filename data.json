@@ -3689,24 +3689,6 @@
       ]
     },
     {
-      "id": 280,
-      "title": "Phòng 306 - CĂN HỘ DỊCH VỤ FULL NỘI THẤT",
-      "price": 5,
-      "address": "553 Lê Văn Thọ, Phường 15, Quận Gò Vấp",
-      "electricPrice": 4000,
-      "waterPrice": 100000,
-      "servicePrice": 200000,
-      "parkingPrice": null,
-      "description": "Căn hộ dịch vụ full nội thất (38m²) với đầy đủ tiện nghi.\nNội thất bao gồm: Tủ lạnh, Máy lạnh, Kệ bếp, bàn ghế, Tủ quần áo, Nệm, Giường.\nTiện ích nổi bật: PCCC đầy đủ theo tiêu chuẩn nhà nước (có mặt nạ chống độc từng phòng), Máy giặt chung, wifi, không chung chủ, cổng/khóa cửa vân tay, giờ giấc tự do, camera 24/24, giữ xe máy.\nQuy định: Ở tối đa 4 người, giữ tối đa 2 xe.\nVị trí: Gần chợ.",
-      "images": [
-        "assets/images/temp_1756998533880.jpg",
-        "assets/images/temp_1756998533881.jpg",
-        "assets/images/temp_1756998533882.jpg",
-        "assets/images/temp_1756998533884.jpg",
-        "assets/images/temp_1756998533885.jpg"
-      ]
-    },
-    {
       "id": 281,
       "title": "STUDIO FULL NỘI THẤT NGAY NGÃ TƯ PHÚ NHUẬN",
       "price": 5.2,
